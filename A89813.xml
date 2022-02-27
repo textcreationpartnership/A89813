@@ -1,0 +1,848 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The plain mans defence against popery: or, A discourse, shewing the flat opposition of popery to the Scripture. By J.N. chaplain to a person of honour</title>
+            <author>J. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 104 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89813</idno>
+            <idno type="STC">Wing N22</idno>
+            <idno type="STC">ESTC R9788</idno>
+            <idno type="EEBO-CITATION">99895377</idno>
+            <idno type="PROQUEST">99895377</idno>
+            <idno type="VID">152693</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152693)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2316:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The plain mans defence against popery: or, A discourse, shewing the flat opposition of popery to the Scripture. By J.N. chaplain to a person of honour</title>
+                  <author>J. N.</author>
+               </titleStmt>
+               <extent>[4], 70, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Parkhurst; and are to be sold at the Bible and Three Crowns in Cheapside, near Mercers-Chappel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: The flat opposition of popery to Scripture.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Jason Colman</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Jason Colman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152693:1" rendition="simple:additions"/>
+            <p>The Plain Mans DEFENCE AGAINST Popery: OR, A DISCOURSE, SHEWING The <hi>Flat Oppoſition</hi> of Popery to the <hi>Scripture.</hi>
+            </p>
+            <p>Fitted for the uſe of the meaneſt Capacities, and ſuch as have not time to read Great Books.</p>
+            <p>By <hi>J. N.</hi> Chaplain to a Perſon of Honour.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Parkhurſt;</hi> And are to be ſold at the Bible and Three Crowns in <hi>Cheapſide,</hi> near <hi>Mercers</hi>-Chappel, 1675.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:152693:2" rendition="simple:additions"/>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>THou wilt find in this little Tract, an Account of the proper and chief Doctrines of the <hi>Romiſh Religion,</hi> and their Contrarie<g ref="char:EOLhyphen"/>tie to the expreſs Texts of Gods Word; though indeed there is not one Point, in which Papiſts differ from Proteſtants, wherein they are agreed among them<g ref="char:EOLhyphen"/>ſelves. I ſhall only deſire this of thee, that thou be willing to ſubmit thy Soul and Conſcience, to the clear and obvious ſenſe of Scripture-Propoſitions and Teſtimonies.</p>
+            <closer>
+               <signed>J. N.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:152693:2"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>1. OF the Scripture, <hi>Q.</hi> 1.2, 3, 4, 5.</item>
+               <item>2. Of Antichriſt, <hi>Q.</hi> 6.</item>
+               <item>3. Of Controverſies in Religion, <hi>Q.</hi> 7.8.</item>
+               <item>4. Of Reading the Scripture, <hi>Q.</hi> 9.</item>
+               <item>5. Of the judgment of Diſcretion, <hi>Q.</hi> 10.</item>
+               <item>6. Of the Apocrypha, <hi>Q.</hi> 11.</item>
+               <item>7. Of ſin, <hi>Q.</hi> 12.13.</item>
+               <item>8. Of Separation from the Church of <hi>Rome, Q.</hi> 14.</item>
+               <item>9. Of Idolatry, and Image worſhip, <hi>Q.</hi> 15.16, 17, 18, 19, 20.</item>
+               <item>10. Of Toleration, <hi>Q.</hi> 21.</item>
+               <item>11. Of the great danger in Tolera<g ref="char:EOLhyphen"/>ting Popiſh Idolatry.</item>
+               <item>12. Of good works, <hi>Q.</hi> 23.24.</item>
+               <item>13. Of Aſſurance of Grace, <hi>Q.</hi> 25.</item>
+               <item>14. Of Prayer, <hi>Q</hi> 26.27, 28, 29, 30.</item>
+               <pb facs="tcp:152693:3"/>
+               <item>15. Of Aequivocation, <hi>Q.</hi> 31.</item>
+               <item>16. Of St. <hi>Peter, Q.</hi> 32.33.</item>
+               <item>17. Of the Head of the Church, <hi>Q.</hi> 34.</item>
+               <item>18. Of the moſt wholeſom Do<g ref="char:EOLhyphen"/>ctrine of juſtification by faith only, <hi>Q.</hi> 35.36, 37, 38.</item>
+               <item>19. Of the lawfulneſs of Miniſters Marriage, <hi>Q.</hi> 39.</item>
+               <item>20. Of private Confeſſion to a Prieſt, <hi>Q.</hi> 40.</item>
+               <item>21. Of Chriſt's Satisfaction and me<g ref="char:EOLhyphen"/>rit, <hi>Q.</hi> 41.</item>
+               <item>22. Of Popiſh pardons, Indulgen<g ref="char:EOLhyphen"/>ces, Jubilees, <hi>Q.</hi> 42.</item>
+               <item>23. Of Purgatory, <hi>Q.</hi> 43.</item>
+               <item>24. Of the Sacraments, <hi>Q.</hi> 44.45, 46, 47, 48, 52, 53.</item>
+               <item>25. Of the Horrible Idolatry, and Blaſphemy of the Popiſh Maſſe, and danger of going to it, <hi>Q</hi> 49.</item>
+               <item>26. Of Tranſubſtantiation, and the damnable Idolatry of Papiſts, in giving Divine worſhip to their Breaden God, <hi>Q.</hi> 50.51.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:152693:3"/>
+            <head>A plain Diſcourſe ſhewing, The flat oppoſition of Popery to the Scripture.</head>
+            <p n="1">1. <hi>Q.</hi> 
+               <seg rend="decorInit">A</seg>RE People at firſt, moved and induced to an high eſteem of the holy Scripture, by the Teſtimony of the Church?</p>
+            <p>A. <hi>The Church is the Pillar and ground of Truth,</hi> 1 Tim. 3.15. Note, the Apoſtle doth not ſay, that the Church cannot err; (for the pureſt Churches under Heaven are ſubject to Er<g ref="char:EOLhyphen"/>rours); but it holds forth, and makes known Gods word and truth, as Pillars hold forth the Proclamations and Edicts of Magi<g ref="char:EOLhyphen"/>ſtrates and Princes.</p>
+            <p n="2">2. <hi>Q.</hi> Are there not greater evidences for our belief of the Scripture to be the word of God, than the bare Teſtimony of
+<pb n="2" facs="tcp:152693:4"/>the Church, which is but a humane Teſti<g ref="char:EOLhyphen"/>mony, and ſo fallible?</p>
+            <p>A. <hi>If we rceive the witneſs of men, the witneſs of God is greater.</hi> 1 John 5.9. <hi>When the Spirit of truth is come, he will guide you into all truth.</hi> John 16.13. <hi>The anointing teacheth you of all things, and is the truth.</hi> 1 John 2.27. <hi>The Goſpel came to you not in word only, but alſo in power, and in the Holy Ghoſt, and in much aſſurance</hi> 1 Theſ. 1.5. Note, our full perſwaſion and aſſurance of the infallible truth, and divine Authority of the Scripture, is from the inward work of the Holy Spirit, bearing witneſs by, and with the word in our hearts. Yet he doth not cauſe us to believe by Enthuſiaſme, without any reaſon or evidence, but he en<g ref="char:EOLhyphen"/>lightens the underſtanding, removes the blindneſs and depravedneſs thereof, and makes us ſee what clear evidences and rea<g ref="char:EOLhyphen"/>ſons there are to ſatisfie us, that the Scrip<g ref="char:EOLhyphen"/>ture is the word of God.</p>
+            <p n="3">3. <hi>Q.</hi> What are thoſe clear evidences and reaſons, that prove the Scripture to be the word of God?</p>
+            <p>A. <hi>Declare things to come, that we may know ye are Gods,</hi> Iſa. 41.22. <hi>When the word of the Prophet ſhall come to paſs, then ſhall it be known, that the Lord hath truly ſent him,</hi> Jer. 28.9. <hi>We know thou art a Teacher come from God, for no man could do
+<pb n="3" facs="tcp:152693:4"/>the miracles which thou doſt, except God be with him,</hi> John 3.2. <hi>The Law of the Lord is perfect, converting the Soul,</hi> Pſal. 19.1. <hi>The word of God is quick and powerful, ſharper than any two edged Sword; a diſcer<g ref="char:EOLhyphen"/>ner of the thoughts and intents of the heart,</hi> Heb. 4.12. <hi>Through comfort of the Scrip<g ref="char:EOLhyphen"/>ture we have hope,</hi> Rom. 15.4. Note, Beſides the Teſtimony of the Church, Five things eſpecially evince the Scripture to come from God.
+<list>
+                  <item>1 The antiquity of it far exceeding the moſt ancient humane wri<g ref="char:EOLhyphen"/>tings.</item>
+                  <item>2. Its miraculous preſervation in all Ages, againſt the rage of Satan, and perſe<g ref="char:EOLhyphen"/>cution of Tyrants.</item>
+                  <item>3. The wonderful and ſupernatural effects of it, convincing, con<g ref="char:EOLhyphen"/>verting, and comforting the Soul.</item>
+                  <item>4. The marks of Divinity and Lineaments of Heavenly wiſdom, that plainly appear in it, <hi>viz.</hi> Its Majeſty, purity, perfection, ſcope, profound and glorious Revelations, excel<g ref="char:EOLhyphen"/>lent rewards, dreadful puniſhments, <hi>&amp;c.</hi>
+                  </item>
+                  <item>5. The ſeals of divine Authority annexed to it, <hi>viz.</hi>
+                     <list>
+                        <item>1. The ſpirit of Propheſie fore<g ref="char:EOLhyphen"/>telling future events.</item>
+                        <item>2. The power of work<g ref="char:EOLhyphen"/>ing famous and illuſtrious miracles to con<g ref="char:EOLhyphen"/>firm the Doctrine of it.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p n="4">4. <hi>Q.</hi> Are all things neceſſary for mans ſalvation ſet down in Scripture, either ex<g ref="char:EOLhyphen"/>preſly, or by neceſſary conſequence?</p>
+            <p>A. <hi>The holy Scriptures are able to make
+<pb n="4" facs="tcp:152693:5"/>thee wiſe to ſalvation, that the man of God may be perfect, and throughly furniſhed unto all good works,</hi> 2. Tim. 3.16. <hi>The Law of God is perfect,</hi> Pſal. 19.7. ſee Gal. 6.16. Iſa. 8.20. John 20.31. Deut. 12.32.</p>
+            <p>Note, The Scripture is called a Teſta<g ref="char:EOLhyphen"/>ment; the chief property of which, is to declare the whole will of the Teſtator.</p>
+            <p>Note, The Papiſts teach, that there are unwritten Traditions neceſſary to ſalvation; becauſe otherwiſe they know the main points of Popery muſt needs fall to the ground, as having no proof of Scripture for them; And becauſe many things held and practiſed by them, are not only, be<g ref="char:EOLhyphen"/>ſides, but alſo repugnant to the Scripture, they will not endure to have their Religion tryed by the Scripture.</p>
+            <p>Note, In the age next to the Apoſtles, <hi>Papias</hi> introduced the errour of the <hi>Chi<g ref="char:EOLhyphen"/>liaſts</hi> under Title of an Apoſtolical Tradi<g ref="char:EOLhyphen"/>tion. In like manner, under the ſame Title, the Papiſts have brought in an infinite number of corrupt Superſtitious, Idola<g ref="char:EOLhyphen"/>trous opinions and practices.</p>
+            <p>Note, The ancient Fathers do oft by the name of Tradition, underſtand the Do<g ref="char:EOLhyphen"/>ctrine contained in the Scripture; and ſometimes by unwritten Traditions, they mean ſuch things which are found in the Scripture, not in expreſs words, but are
+<pb n="5" facs="tcp:152693:5"/>contained therein by right and juſt conſe<g ref="char:EOLhyphen"/>quence.</p>
+            <p>Note, St. <hi>Paul,</hi> 2 <hi>Theſ.</hi> 2.15. Doth not ſay, that he did Preach or deliver any thing by word of mouth, that is not ſet down in the Scripture. The Popiſh argument runs thus, all things neceſſary to ſalvation are not written in the Epiſtle to the <hi>Theſſaloni<g ref="char:EOLhyphen"/>ans,</hi> therefore all things neceſſary to ſalva<g ref="char:EOLhyphen"/>tion are not contained in the Scripture. This pittiful argument, they manage with as much Triumph and Inſultation, as if they had wone <hi>Carthage.</hi>
+            </p>
+            <p n="5">5. <hi>Q.</hi> Are all things neceſſary to ſalvati<g ref="char:EOLhyphen"/>on plainly and clearly propounded and opened in the Scripture, ſo that even the unlearned in a due uſe of the ordinary means may underſtand them?</p>
+            <p>A. <hi>The entrance of thy word giveth light, it giveth underſtanding to the ſimple,</hi> Pſal. 119.130. <hi>The commandement is not hidden from thee, neither is it far off; it is nigh unto thee in thy mouth, and in thy breaſt, that thou mayeſt do it,</hi> Deut. 30.13. Rom. 10.8. <hi>Thy word is a Light unto my feet, and a Lanthern to my path,</hi> Pſal. 119.105. <hi>We have a ſure word of Prophecy, whereunto ye do well to take heed as to a light ſhining in a dark place,</hi> 2 Pet. 1.19. Note, the Scrip<g ref="char:EOLhyphen"/>ture is called a light, and what is more clear and perſpicuous than light?</p>
+            <pb n="6" facs="tcp:152693:6"/>
+            <p>Note, the Papiſts deny the Scripture to be plain and intelligible by believers, even in things neceſſary to ſalvation; becauſe,
+<list>
+                  <item>1. They would ſet the Authority of the Church of <hi>Rome</hi> above the Scripture.</item>
+                  <item>2. Bring all Chriſtians to a blind belief of what ever they ſay.</item>
+                  <item>3. Diſcourage people from reading the Scripture.</item>
+               </list>
+            </p>
+            <p n="6">6. <hi>Q.</hi> What places of Scripture demon<g ref="char:EOLhyphen"/>ſtrate the Pope of <hi>Rome</hi> to be the great Antichriſt?</p>
+            <p>A. <hi>That day ſhall not come, except there come a falling away firſt, and that man of ſin be revealed; who exalteth himſelf above all that is called God, ſitteth in the Temple of God,</hi> &amp;c. 2 Theſ. 2.3. &amp;c. <hi>I beheld another Beaſt, and he had two horns like a Lamb, he deceiveth them that dwell on Earth: and ex<g ref="char:EOLhyphen"/>erciſeth all the power of the firſt Beaſt,</hi> Rev. 13.11. &amp;c. <hi>The great whore upon a ſcarlet coloured Beaſt, having ſeven beads and ten horns upon her forehead, was written myſtery,</hi> Babilon, <hi>&amp;c.</hi> Rev. 17.1, 2. ſee alſo 1 Tim. 4. 1. Dan. 7.20. Dan. 11.26. 2 John 2.22.</p>
+            <p>Note, How could <hi>Daniel,</hi> St. <hi>Paul,</hi> St. <hi>John</hi> draw a Picture ſo like the Pope, and never think upon him; yea the Papiſts themſelves, and the ancient Fathers gene<g ref="char:EOLhyphen"/>rally acknowledge, that the great Antichriſt is deſcribed in the forementioned places,
+<pb n="7" facs="tcp:152693:6"/>2 <hi>Theſ.</hi> 2. <hi>Rev.</hi> 13. <hi>Dan. c.</hi> 7. <hi>c.</hi> 11. and it's almoſt generally agreed by all, that in <hi>Dan. c.</hi> 7. <hi>c.</hi> 11. <hi>Antiochus, Epiphan.</hi> is de<g ref="char:EOLhyphen"/>ſcribed as a Type and figure of Antichriſt.</p>
+            <p>Note, The Roman Empire when it was in four, did hinder the Popes riſing; but the Empire decaying, the Pope ſeized upon <hi>Rome</hi> and exalted himſelf upon the ruines of the Empire; that this is the meaning of St. <hi>Paul,</hi> in 2 Theſ. 2.7. <hi>He that let<g ref="char:EOLhyphen"/>teth,</hi> &amp;c. is generally granted by the anci<g ref="char:EOLhyphen"/>ent Fathers.</p>
+            <p>Note, The ſeat of Antichriſt is notably deſcribed, <hi>Rev.</hi> 17.1.2. to be Popiſh <hi>Rome.</hi>
+            </p>
+            <p>Note, By the Dragon, <hi>Rev.</hi> 12.3. un<g ref="char:EOLhyphen"/>derſtand the Devil as the Pagan and Hea<g ref="char:EOLhyphen"/>then Roman Empire, by the Beaſt with ten horns, <hi>Rev.</hi> 13.1. underſtand the Chriſtian Roman Empire corrupted with Popiſh Ido<g ref="char:EOLhyphen"/>latry, as the two horned Beaſt or falſe Pro<g ref="char:EOLhyphen"/>phet, <hi>Rev.</hi> 13.11. is evidently the Pope. Papiſts themſelves grant this Beaſt to be Antichriſt, by the two witneſſes, <hi>Rev.</hi> 11.3. underſtand a ſucceſſion of holy men, teſti<g ref="char:EOLhyphen"/>fying againſt Antichriſt in the whole time of his Reign. Antichriſt ſhall Reign 1260. years, as expoſitors generally agree and prove by <hi>Rev.</hi> 11.3. <hi>Rev.</hi> 13.5. Though there is difficulty when to begin his riſe and Reign.</p>
+            <pb n="8" facs="tcp:152693:7"/>
+            <p>Prophetical dayes are years; 1260 dayes, are 1260 years; Prophetical months are ſo many years as there are dayes in a month; 42 months (reckoning for every month 30 dayes) are 1260 years; ſo long Antichriſt ſhall Reign, and the witneſſes Propheſie. Therefore when the Papiſts ask, where was the Church before <hi>Luther</hi>'s time? we an<g ref="char:EOLhyphen"/>ſwer, it was in and among them; though it was not of them, in the ſeveral ages under the Reign of Antichriſt, ſome ſtill oppoſed his Errours.</p>
+            <p n="7">7. <hi>Q.</hi> What is the infallible rule of in<g ref="char:EOLhyphen"/>terpretation of Scripture?</p>
+            <p>A. <hi>No propheſie of the Scripture is of any private interpretation,</hi> 2 Pet. 1.20. <hi>Let us propheſie according to the proportion of faith,</hi> Rom. 12.6. <hi>To this agree the words of the Prophets, as it is written,</hi> Acts 15.15. Note; When there is a queſtion about the true ſenſe and meaning of any Scripture, it muſt be known by comparing it with other places, which ſpeak more cleerly; ſo that the Scripture it ſelf is the only infallible rule of expounding the Scripture.</p>
+            <p n="8">8. <hi>Q.</hi> Who is the ſupreme Judge, by whom all controverſies in Religion are to be determined? is it the holy Spirit ſpeaking in the Scripture?</p>
+            <p>A. <hi>To the Law and to the Teſtimony, if they ſpeak not according to this word, it is be<g ref="char:EOLhyphen"/>cauſe
+<pb n="9" facs="tcp:152693:7"/>there is no light in them,</hi> Eſa. 8.20. <hi>They ſearched the Scriptures daily, whether thoſe things were ſo,</hi> Acts 17.11. <hi>Search the Scriptures,</hi> John 5.29. Note, The Papiſts contend, that the Church is the ſupreme and infallible judge of Controverſies in Religi<g ref="char:EOLhyphen"/>on, and interpreter of the Scripture; but being asked, what they mean by the Church? they confeſs they mean not the people, but the Paſtors, the Church repre<g ref="char:EOLhyphen"/>ſentative, that is, Biſhops and Prelates aſ<g ref="char:EOLhyphen"/>ſembled in Counſel. And being asked what they underſtand by Councils, they are for<g ref="char:EOLhyphen"/>ced to anſwer, that all Counſels may err, and ſo are no infallible judges, nor certain interpreters of Scripture; unleſs they be allowed and approved by the Pope, whom they would have to judge in and of Coun<g ref="char:EOLhyphen"/>ſels, and ſo they reſolve all power of judg<g ref="char:EOLhyphen"/>ing and interpreting into him, who they ſay cannot err: and thus the ſupream and infal<g ref="char:EOLhyphen"/>lible judge of the Scripture, and all contro<g ref="char:EOLhyphen"/>verſies in Religion according to the Papiſts, is the Biſhop of <hi>Rome.</hi> But he cannot be the ſupreme and infallible judge, becauſe,
+<list>
+                  <item>1. Their own Hiſtories confeſs, that many Popes have been Hereticks.</item>
+                  <item>2. Many have ſet forth contrary Decrees.</item>
+                  <item>3. Many Popes have beengroſly ignorant of the Scripture, and in their Decrees have ridiculouſly and abſurdly miſapplyed it.</item>
+                  <item>4. Many of them
+<pb n="10" facs="tcp:152693:8"/>have been prophane, impious, wicked, and addicted to Magick and Sorcery.</item>
+               </list>
+            </p>
+            <p n="9">9. <hi>Q.</hi> Ought not the Scripture to be ſet forth in the vulgar and common ſpeech? is it dangerous for people to read the Scrip<g ref="char:EOLhyphen"/>ture? will it make them fall into Hereſie? or ought all people to be diligent readers of the Scripture? what ſaith our Saviour? what ſay the Prophets and Apoſtles concerning this?</p>
+            <p>A. <hi>Search the Scripture,</hi> John 5.39. <hi>Ye do err, not knowing the Scriptures,</hi> Matt. 22.29. <hi>Thy teſtimonies are my delight and my Councellers,</hi> Pſal. 119.24. <hi>Seek ye the book of the Lord, and read,</hi> Eſa. 34.16. <hi>They were more noble in that they ſearched the Scrip<g ref="char:EOLhyphen"/>tures daily,</hi> Act. 17.11. <hi>They have</hi> Moſes <hi>and the Prophets, let them hear them,</hi> Luke 16.29. <hi>From a child thou haſt known the holy Scriptures,</hi> 2 Tim. 3.15. <hi>Let the word of God dwell richly in you,</hi> Col. 3.16. <hi>Sit<g ref="char:EOLhyphen"/>ting in his Chariot, he read</hi> Eſaias <hi>the Pro<g ref="char:EOLhyphen"/>phet,</hi> Acts 8.28. <hi>Take the ſword of the Spi<g ref="char:EOLhyphen"/>rit, which is the word of God,</hi> Eph. 6.17. Note, The true reaſon why the Church of <hi>Rome</hi> forbids people to read the Scripture, is, becauſe it would make people abhor the Popiſh Religion, it being ſo plainly con<g ref="char:EOLhyphen"/>trary to Scripture.</p>
+            <p n="10">10. <hi>Q.</hi> Hath every Chriſtian, liberty and power to examine and judge of things be<g ref="char:EOLhyphen"/>longing
+<pb n="11" facs="tcp:152693:8"/>to faith and ſalvation, of the true ſenſe of the Scripture? or is he bound abſo<g ref="char:EOLhyphen"/>lutely to ſubmit his judgment to Eccleſia<g ref="char:EOLhyphen"/>ſtical Judges, and to receive their doctrine without Examination?</p>
+            <p>A. <hi>I ſpeak as to wiſe men: judge ye what I ſay,</hi> 1 Cor. 10.15. <hi>Try the Spirits whether they be of God,</hi> 1 John 4.1. <hi>The ſpiritual man judgeth all things,</hi> 1 Cor 2.15. <hi>Take beed of falſe Prophets,</hi> Matth. 7.15. <hi>Not that we have Dominion over your faith,</hi> 2 Cor. 1.24. <hi>Try all things,</hi> 1 Theſ. 5.21.</p>
+            <p>Note, The Church of <hi>Rome</hi> deals with people, as the Philiſtins with <hi>Sampſon,</hi> when they put out his eyes; they have no hope that Chriſtian people will receive their do<g ref="char:EOLhyphen"/>ctrine, if they be not firſt blinded, and the light of their reaſon and judgment taken a<g ref="char:EOLhyphen"/>way; they are not aſhamed to affirm,
+<list>
+                  <item>1. That private Chriſtians muſt receive the do<g ref="char:EOLhyphen"/>ctrine of the Church without examination.</item>
+                  <item>2. That they do not offend God, nor are blameable for holding any errour or hereſie, or committing any ſin, if by ſo doing they follow the Doctrine of their Paſtors and Spiritual Guides.</item>
+               </list>
+            </p>
+            <p n="11">11. <hi>Q.</hi> Are the Books commonly called Apocrypha any part of the holy Scripture? or were all the Books of Divine Scripture written by the Prophets and Apoſtles, or by other Apoſtolick men allowed by the
+<pb n="12" facs="tcp:152693:9"/>Apoſtles? and do the Divine Scripture contain nothing but truth, by reaſon of the immediate aſſiſtance of the holy Ghoſt af<g ref="char:EOLhyphen"/>forded to the Pen-men of them?</p>
+            <p>A. <hi>Thy word is truth,</hi> John 17.17. <hi>The Scriptures of the Prophets,</hi> Rom. 16.26. <hi>Ye are built upon the foundation of the Pro<g ref="char:EOLhyphen"/>phets and Apoſtles,</hi> Eph. 2.20.</p>
+            <p>Note, The Apocrypha may not be re<g ref="char:EOLhyphen"/>ceived as Scripture, for
+<list>
+                  <item>1. The Apochryphal books were not received by the Jewiſh Church as Divine Scripture; yet to them were committed all the Scriptures of the Old Teſtament, <hi>Rom.</hi> 3.2.</item>
+                  <item>2. The Apo<g ref="char:EOLhyphen"/>crypha was written after <hi>Malachie</hi> the laſt Prophet, ſo that they could not be written by any of the Prophets (and it is evident they were not written by any of the Apo<g ref="char:EOLhyphen"/>ſtles) the Prophet swrote in Hebrew, and did propheſie of Chriſt; but theſe books were not written in Hebrew, nor do they propoſe any Teſtimony or propheſie of Chriſt, whereas all the Prophets ſpeak of Chriſt, <hi>Luke</hi> 14.27. <hi>Act.</hi> 10.13.</item>
+                  <item>3. The Apocrypha Books, were not received as Divine Scripture by the primitive Chriſti<g ref="char:EOLhyphen"/>an Church, as the ancient Fathers plainly teſtifie.</item>
+                  <item>4. Theſe books are not cited and quoted by Chriſt and the Apoſtles, as the books of the Old Teſtament are frequent<g ref="char:EOLhyphen"/>ly.</item>
+                  <item>5. Theſe books contain ſome things
+<pb n="13" facs="tcp:152693:9"/>erroneous, falſe, ſuperſtitious, and contra<g ref="char:EOLhyphen"/>dictious, both to the Scripture and to them<g ref="char:EOLhyphen"/>ſelves, ſee <hi>Tob.</hi> 5.12. <hi>Tob.</hi> 6.7. <hi>Tob.</hi> 9.2. <hi>judith</hi> 9.2. <hi>Bar.</hi> 6.3. <hi>Eccleſiaſt.</hi> 46.20. 2 <hi>Maccab.</hi> 14.42. &amp;c. 2 <hi>Maccab.</hi> 12.9. 2 <hi>Maccab.</hi> 12.42, 43. &amp;c.</item>
+               </list>
+            </p>
+            <p>Note, Some of the Apocrypha the Church doth read for example of life, and inſtruction of manners; but it doth not apply them to eſtabliſh any Doctrine.</p>
+            <p n="12">12. <hi>Q.</hi> Is the corruption of nature it ſelf, and all the motions of it, truly and properly ſin, even in thoſe who are rege<g ref="char:EOLhyphen"/>nerated? hath concupiſcence and luſt of it ſelf the nature of ſin, though a man doth not conſent to act and fulfill it?</p>
+            <p>A. <hi>I had not known ſin, but by the Law: I had not known luſt, except the law had ſaid thou ſhalt not Covet,</hi> Rom. 7.7. <hi>With the mind I ſerve the Law of God, with the fleſh the law of ſin,</hi> Rom. 7.25. <hi>Luſt is not of the Father,</hi> 1 John 2.16. <hi>The fleſh luſteth againſt the Spirit,</hi> &amp;c. Gal. 5.17.</p>
+            <p>Note, The Apoſtle in <hi>Rom</hi> 7. more than once calls concupiſcence or luſt ſin, and that not only, becauſe it is from ſin, and inclines to it; but alſo, becauſe it is contrary to the law of the mind, and luſteth againſt the ſpi<g ref="char:EOLhyphen"/>rit, in which thing the true nature of ſin doth conſiſt, <hi>viz.</hi> in non-conformity to the Law of God. Note, If concupiſcence were
+<pb n="14" facs="tcp:152693:10"/>only the puniſhment of ſin, St. <hi>John</hi> would not have ſaid, that it is not of the Father, for from him is the puniſhment of ſin. Note, The motions of the mind to evil are of three ſorts.
+<list>
+                  <item>1. Such as are rejected as ſoon as they ariſe.</item>
+                  <item>2. Such as remain a while and tickle and affect the Soul with ſome de<g ref="char:EOLhyphen"/>light.</item>
+                  <item>3. Such as both tickle the mind with pleaſure, and a man doth reſolve to put them into practiſe.</item>
+               </list> There is no controverſie about the firſt or third ſort, but the diſpute is about the ſecond ſort; which indeed are forbidden in the tenth Commandement, for what elſe can it forbid? for motions of the firſt ſort are not ſinful, and motions of the third cauſe are forbidden in the other Commandements as is evident by our Sa<g ref="char:EOLhyphen"/>viours expoſition in <hi>Matt.</hi> 5.</p>
+            <p>Note, The Papiſts deny concupiſcence and the luſts thereof to be ſin, becauſe, otherwiſe their other errours are not defen<g ref="char:EOLhyphen"/>ſible, their doctrines of merits, of per<g ref="char:EOLhyphen"/>fection, of ſuperrogation; yea, they are ſo blaſphemous, as to ſay, that concupiſcence and the luſts thereof, are ſo far from defi<g ref="char:EOLhyphen"/>ling the Soul, that they make the operati<g ref="char:EOLhyphen"/>ons of it more meritorious, and if ſo, then our actions are more meritorious than the actions of our Saviour Chriſt, who had no manner of corruption or luſt in him, to wreſtle or ſtrive againſt the will of God.</p>
+            <pb n="15" facs="tcp:152693:10"/>
+            <p n="13">13. <hi>Q.</hi> Are ſome ſins Venial, that is, ſo ſmall, that they do not deſerve or bind over to the wrath and curſe of God, and ever<g ref="char:EOLhyphen"/>laſting death?</p>
+            <p>A. <hi>Curſed is every one that doth not conti<g ref="char:EOLhyphen"/>nue in all things written in the Law,</hi> Gal. 3.10. <hi>Whoſoever ſhall keep the whole law, and offend in one point, he is guilty of all,</hi> Jam. 2.10. <hi>The wages of ſin is death, and the gift of God eternal life,</hi> Rom. 6.23. <hi>ſo</hi> Rom. 6.16. Note, The Apoſtle ſaith, all ſin deſerveth death, that is, everlaſting, as appears by the oppoſition of life ever<g ref="char:EOLhyphen"/>laſting, which the Apoſtle joyneth in the ſame verſe. Note, without this filthy di<g ref="char:EOLhyphen"/>ſtinction of ſins venial and mortal, the Po<g ref="char:EOLhyphen"/>piſh doctrine of a regenerate mans perfect keeping the whole law, and ſo meriting a heaven, falls to the ground; and it is the leſs wonder that ſome debauched perſons turn Papiſts, when they preciſely mention drunkenneſs as one in their Catalogue of veinal ſins. Note, The ground of this Po<g ref="char:EOLhyphen"/>piſh miſtake about ſins venial, is, that they take the meaſures of ſin from the Act, which is finite; and not from the Object, which is infinite, ſo God offended by it. Now this muſt needs be a falſe rule, for ſo no ſin would deſerve infinite puniſhment, but all ſins would be venial; for all ſin is finite in it ſelf, and yet becomes infinite in merit, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="16" facs="tcp:152693:11"/>it is committed againſt an infinite God.</p>
+            <p n="14">14. <hi>Q.</hi> Muſt we diſavow all communi<g ref="char:EOLhyphen"/>on with, and ſeparate from the Church of <hi>Rome</hi> in their Idolatrous worſhip? or is Idolatry a ſin not ſo heinous, but that it may ſtand with the fellowſhip a Chriſtian ought to have both with Chriſt the Head, and with his body the Church?</p>
+            <p>A. <hi>What agreement hath the Temple of God with Idols? Come out from among them, and be ye ſeparate, touch not the unclean thing,</hi> 2 Cor. 6.16, 17. <hi>Let no man beguile you of your reward in a voluntary humility, and wor<g ref="char:EOLhyphen"/>ſhipping of Angels, &amp;c. not holding the head,</hi> Col. 2.18. <hi>Come out of her my peo<g ref="char:EOLhyphen"/>ple, that ye be not partaker of her ſins, and that ye receive not of her plagues,</hi> Rev. 18. <hi>ver.</hi> 4.</p>
+            <p>Note, The Church of <hi>Rome</hi> is guilty of Idolatry many wayes,
+<list>
+                  <item>1. In giving Divine and Religious worſhip to the Sacrament as their God.</item>
+                  <item>2. In worſhipping, and praying to Angels and Saints, eſpecially the Bleſſed Virgin <hi>Mary,</hi> whom they honour above Chriſt.</item>
+                  <item>3. In worſhipping of Images; Ima<g ref="char:EOLhyphen"/>ges of the Trinity, of Chriſt upon the Croſs, of the Saints.</item>
+                  <item>4. In aſcribing a Di<g ref="char:EOLhyphen"/>vine and ſupernatural efficacy, to the re<g ref="char:EOLhyphen"/>liques of Saints, the ſign of the Croſs,
+<pb n="17" facs="tcp:152693:11"/>holy water, <hi>&amp;c.</hi> to cure diſeaſes, reſtore health, caſt out and drive away Devils.</item>
+               </list>
+            </p>
+            <p n="15">15. <hi>Q.</hi> Doth the ſecond Commande<g ref="char:EOLhyphen"/>ment expreſly forbid any Religious Ado<g ref="char:EOLhyphen"/>ration and worſhip, either outward or in<g ref="char:EOLhyphen"/>ward to be given to any Images of God, of the Saints, or any other Creature?</p>
+            <p>A. <hi>Thou ſhalt not make to thy ſelf any graven Image, or any likeneſs of any thing in Heaven above, or that is in the Earth be<g ref="char:EOLhyphen"/>neath, or that is in the water under the Earth, thou ſhalt not bow down thy ſelf to them,</hi> &amp;c. <hi>Command II.</hi> Exod. 20.4.</p>
+            <p>Note, The ſecond Commandement, for<g ref="char:EOLhyphen"/>bids all Images, referring to Divine wor<g ref="char:EOLhyphen"/>ſhip and religious uſe. The firſt Com<g ref="char:EOLhyphen"/>mandement forbids falſe Gods, this (in its primary ſenſe) the worſhipping of the true God by falſe means, as Images, <hi>&amp;c.</hi>
+            </p>
+            <p>Note, The ſecond Commandment for<g ref="char:EOLhyphen"/>bids not only the higher, but alſo the low<g ref="char:EOLhyphen"/>eſt degree of religious worſhip to Images, the very bowing down to them (thou ſhalt not bow down thy ſelf to them) it forbids all religious worſhip and honour of Ima<g ref="char:EOLhyphen"/>ges; whether abſolutely or relatively, me<g ref="char:EOLhyphen"/>diately or ultimately, for it ſaith [Thou ſhalt not ſerve them.]</p>
+            <p>Note, The Hebrew word <hi>Peſel,</hi> ſignifies any Image whatſoever, and the following words plainly ſhew the meaning of it
+<pb n="18" facs="tcp:152693:12"/>
+               <hi>(Thou ſhalt not make to thy ſelf any graven Image, or any likeneſs of any thing in)</hi> that is, thou ſhalt not make to thy ſelf any gra<g ref="char:EOLhyphen"/>ven Image, nor any other of what kind ſo ever for religious worſhip.</p>
+            <p>Note, The Papiſts are ſorely put to it, to ſhift off the force of this Commande<g ref="char:EOLhyphen"/>ment, that doth ſo clearly and evidently condemn their Idolatry, in giving religious worſhip to Images; Therefore ſome of them would make people believe that only Idols or Images of falſe Gods are here for<g ref="char:EOLhyphen"/>bidden, others ſay, that this Commande<g ref="char:EOLhyphen"/>ment is Ceremonial, and proper to the <hi>Jews</hi> only; now though they cannot agree about the expoſition, yet they agree to leave the ſecond Commandement out of their Books, and craftily conceal it from the people, leaſt by the light thereof, the myſtery of their iniquity ſhould be diſco<g ref="char:EOLhyphen"/>vered.</p>
+            <p>Note, The ſecond Commandement can not be Ceremonial or binding the <hi>Jews</hi> on<g ref="char:EOLhyphen"/>ly, for
+<list>
+                  <item>1. It is not repealed in the Goſpel</item>
+                  <item>2. It is ratified in the Goſpel.</item>
+                  <item>3. It is a Commandement of the Decalogue equally ranked amongſt the Morals, which are al<g ref="char:EOLhyphen"/>wayes binding.</item>
+                  <item>4. The reaſon of it is im<g ref="char:EOLhyphen"/>mutable, therefore this law is ſo.</item>
+               </list>
+            </p>
+            <p n="16">16. <hi>Q.</hi> How doth <hi>Moſes</hi> expound the ſecond Commandement?</p>
+            <pb n="19" facs="tcp:152693:12"/>
+            <p>A. <hi>The Lord ſpake unto you, ye heard the voice, but ſaw no ſimilitude, only heard the voice. Take ye therefore good heed (for ye ſaw no manner of ſimilitude) leaſt you cor<g ref="char:EOLhyphen"/>rupt your ſelves, and make you a graven I<g ref="char:EOLhyphen"/>mage, the ſimilitude of any figure, &amp;c.</hi> Deu. 4.12 <hi>&amp;c.</hi>
+            </p>
+            <p>Note, <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſecond Commandement for<g ref="char:EOLhyphen"/>bids the worſhipping of the true God by Images (as is plain by <hi>Moſes</hi> his interpre<g ref="char:EOLhyphen"/>tation of it) God did forbear to ſhew him<g ref="char:EOLhyphen"/>ſelf in any viſible ſhape at the delivery of the law, to the end, that it might be the better made known, that the worſhipping of Images, not only as they have reference to the Creatures, or falſe Gods, but alſo as they have relation to himſelf did come within the compaſs of Idolatry.</p>
+            <p n="17">17. <hi>Q.</hi> Doth the Scripture in ſundry places condemn the worſhipping of the true God by Images, for abominable Ido<g ref="char:EOLhyphen"/>latry?</p>
+            <p>A. Aaron <hi>after he had made a Golden Calf, he built an Altar before it, and made Proclamation, and ſaid to morrow is a feaſt to the Lord</hi> (Jehovah.) Exod. 32.5. <hi>I had wholly dedicated the Silver unto the Lord</hi> (Jehovah) <hi>Now I know that the Lord</hi> (Je<g ref="char:EOLhyphen"/>hovah) <hi>will do me good, becauſe I have a</hi> Levite <hi>to my Prieſt,</hi> Judg. 17.3.13. <hi>Be<g ref="char:EOLhyphen"/>hold thy Gods O</hi> Iſrael, <hi>which brought thee up
+<pb n="20" facs="tcp:152693:13"/>out of the land of</hi> Egypt, 1 King. 12.28. <hi>One of the Prieſts whom they carried away from</hi> Samaria, <hi>came and dwelt in</hi> Bethel, <hi>and taught them how they ſhould fear the Lord,</hi> 2 King. 17.28.</p>
+            <p>Note, The Scripture manifeſtly atteſts, that thoſe who erect Images to God, and in and by them worſhip God do commit Ido<g ref="char:EOLhyphen"/>latry: thus the <hi>Iſraelites</hi> by making a Gol<g ref="char:EOLhyphen"/>den Calf committed Idolatry, they could not be ſo ſilly, as to think that the Calf that they made was God, that brought them up out of <hi>Egypt;</hi> but becauſe the <hi>Egyptians</hi> worſhipped their falſe Gods by Hierogly<g ref="char:EOLhyphen"/>phick ſigns in the ſhape of an Oxe, they would worſhip <hi>Jehovah</hi> in like manner; So <hi>Micha</hi> made an Image in honour of <hi>Je<g ref="char:EOLhyphen"/>hovah;</hi> So alſo <hi>Jeroboams</hi> Calves were made to repreſent not falſe Gods, but <hi>Jeho<g ref="char:EOLhyphen"/>vah,</hi> as it is evident by the fore-mentioned Scriptures. The <hi>Jews</hi> are now ſo ſenſible of the evil of Idolatry, that they ſay there is no puniſhment which befalls them, but there is a drachme weight of the Golden Calf in it, and when they ſee any Church in which there are Images, they call it <hi>Beth Hatturpha</hi> the houſe of filthineſs.</p>
+            <p n="18">18. <hi>Q.</hi> Doth the Scripture affirm, that they who worſhip God by Images, are in<g ref="char:EOLhyphen"/>deed worſhippers of Devils and Idols, whatever they intend.</p>
+            <pb n="21" facs="tcp:152693:13"/>
+            <p>A. <hi>They provoked him to jealouſie with ſtrangé Gods, they Sacrificed unto Devils,</hi> Deut. 32.17. <hi>They made a Calf in thoſe dayes and Sacrificed to the Idol,</hi> Act. 7.41.</p>
+            <p>Note, The Golden Calves are called Idols, and the <hi>Jews</hi> are ſaid to Sacrifice to Devils. Now this is not to be underſtood of the judgment and intention of the men worſhipping them, as if they did deſign to worſhip Devils and falſe Gods by them, but of the truth of the thing, and of the judgment of God, teſtifying that ſuch worſhip being contrary to his command did diſpleaſe him, and had the Devil for its Authour, and ſo whatever they intended was indeed the worſhipping of Devils and falſe Gods; By all this it appears, that the Papiſts are as vile Idolaters, as were the <hi>Jews</hi> of old, or the Heathens</p>
+            <p n="19">19. <hi>Q.</hi> Did the Heathens hold the Ima<g ref="char:EOLhyphen"/>ges themſelves to be Gods, or when their blocks were ſo old that they placed new in their ſtead, did they think that by this change of their Images, that they made a change alſo of their Gods (what ſaith the Scripture of this?</p>
+            <p>A. <hi>Conſider diligently, and ſee if there be ſuch a thing, hath a Nation changed their Gods?</hi> Jer. 2.11.</p>
+            <p>Note, the Heathens did excuſe their Ido<g ref="char:EOLhyphen"/>latry with the ſame diſtinctions as the Pa<g ref="char:EOLhyphen"/>piſts
+<pb n="22" facs="tcp:152693:14"/>now make uſe of, ſo they did not wor<g ref="char:EOLhyphen"/>ſhip their Images as God, but God by Ima<g ref="char:EOLhyphen"/>ges. This appears by the Teſtimony of many ancient Fathers, eſpecially, <hi>Arnobius, Lactantius, Auguſtine, Chryſoſtome</hi> in many places.</p>
+            <p n="20">20. <hi>Q.</hi> What reaſons are given in Scri<g ref="char:EOLhyphen"/>pture againſt the religious adoration of Images, and worſhipping of God by Ima<g ref="char:EOLhyphen"/>ges?</p>
+            <p>A. <hi>I the Lord thy God am a jealous God,</hi> Com. 2. <hi>God is a Spirit, they that worſhip him, muſt worſhip him in Spirit and in Truth,</hi> John 4.24. <hi>To whom will ye liken God to? what likeneſs will ye compare him? he fitteth upon the circle of the Earth; the Inhabitants thereof are as Graſboppers before him,</hi> &amp;c. Iſa. 40.18. <hi>Ye ſhall not add unto the word which I command you,</hi> Deut. 4.2. Rom. 1.23.</p>
+            <p>Note, Gods glorious and incomprehen<g ref="char:EOLhyphen"/>ſible nature cannot be repreſented to men by any Image, but in a way of infinite diſ<g ref="char:EOLhyphen"/>paragement to him.</p>
+            <p>Note, All Popiſh Images are lyes, their Images of God, of the bleſſed Trinity, of Chriſt, for he is both God and man, and cannot be truly repreſented; and ſurely it is greatly unbecoming the glory of the Saints in Heaven to ſet them up in dul and ſenſeleſs Images. The Popiſh pictures
+<pb n="23" facs="tcp:152693:14"/>and Images of Chriſts body are lyes, for from whence ſhould they have his true Effigies. There being no Images or Pictures made of his body, until many hundred years after his death; and the Pictures of his body that they now have in ſeveral pla<g ref="char:EOLhyphen"/>ces, are not alike in ſhape, lineaments, or colour.</p>
+            <p>Note, Some of the moſt learned Papiſts affirm, that no Image is to be worſhipped properly with that worſhip which the thing repreſented is worſhipped by, for that is Idolatry; other Papiſts no leſs learned ſay, if an inferiour worſhip be given to the Image diſtinct from that which is given to the thing repreſented, it is Idolatry; ſo that which way ſoever you take, you are guilty of Idolatry by their own confeſſi<g ref="char:EOLhyphen"/>on.</p>
+            <p n="21">21. <hi>Q.</hi> Is the Toleration of Idolatry lawful?</p>
+            <p>A. <hi>Whoſoever will not do the law of thy God, and the Law of the King, let judgment be executed ſpeedily upon him,</hi> Ezr. 7.26. <hi>If any entice thee ſecretly, ſaying let us go ſerve other Gods, thou ſhalt not conceal him,</hi> Deut. 13.6. Joſiah <hi>took away all the Abominati<g ref="char:EOLhyphen"/>ons, and made all in</hi> Iſrael <hi>to ſerve the Lord their God,</hi> 2 Chron. 34.33. <hi>They enterd in<g ref="char:EOLhyphen"/>to a Covenant, that whoſoever would not ſeek the Lord God ſhould be put to death,</hi> 2 Chro.
+<pb n="24" facs="tcp:152693:15"/>15.13. Aſa <hi>cut down her Idol and burnt it,</hi> 2 Chron. 15.16. <hi>Thou ſuffereſt</hi> Jezabel <hi>to ſeduce my ſervants,</hi> Rev. 2.20. <hi>If thou do that which is evil be afraid, he beareth not the ſword in vain,</hi> Rom. 13.14. <hi>I have ſomething againſt thee, becauſe thou haſt them that hold the doctrine of</hi> Balaam. Rev. 2.20.</p>
+            <p>Note, The ancient Fathers obſerve, that falſe Religions tolerated have a power to kill true Chriſtianity in the Church, and that this was the deſign of <hi>Julian</hi> the Apo<g ref="char:EOLhyphen"/>ſtate, and valens the Arian in tolerating all Idolaters and Hereticks.</p>
+            <p>Note, The Papiſts ſpeak for toleration, where themſelves are under Hatches; yet when they come to ſit at Stern, they judge and practiſe quite contrary, witneſs the dayes of Queen <hi>Mary.</hi>
+            </p>
+            <p>Note, <hi>The Tares to be let alone,</hi> Mat. 13.30. Signifie not Idolaters obſtinate Here<g ref="char:EOLhyphen"/>ticks (for theſe are Briars and Thorns) but ſuch kind of evil perſons as are like unto the good, and come very near the truth (as Tares do to the Wheat) and ſo near that good men may be taken with them: again (let them alone) may be a word of permiſſion by way of providence, (God in his providence will permit ſome or other Tares ever to be in his Church) not a word of precept by way of Ordi<g ref="char:EOLhyphen"/>nance.</p>
+            <pb n="25" facs="tcp:152693:15"/>
+            <p>Note, No man is to be perſecuted at all, becauſe all perſecution is for righteouſneſs ſake. 2. None is to be puniſhed for his Conſcience ſake; though erroneous, unleſs his errours be fundamental or ſeditiouſly promoted, and tend to deſtroy the ſouls of Gods people.</p>
+            <p n="22">22. <hi>Q.</hi> Is the Toleration of Popiſh Ido<g ref="char:EOLhyphen"/>latry more perillous than of any other, in regard of the civil peace and ſpiritual dan<g ref="char:EOLhyphen"/>ger, it being a myſtery of iniquity, and poyſon in a golden Cup?</p>
+            <p>A. <hi>The myſtery of iniquity doth already work,</hi> 2 Theſ. 2.7. <hi>She had a golden Cup full of Abominations,</hi> Rev. 17.4.</p>
+            <p>Note, Popiſh principles are utterly in<g ref="char:EOLhyphen"/>conſiſtent with Government. Their Coun<g ref="char:EOLhyphen"/>cils Decretals, and the books of their Di<g ref="char:EOLhyphen"/>vines teach, that the Pope may depoſe Kings and Emperours, transfer Kingdoms from one line to another, abſolve ſubjects from oaths of Alleigance, that a King ex<g ref="char:EOLhyphen"/>communicated may be killed by any one. The Papiſts have murthered 4 or 5 Kings in this Realm ſince the Conqueſt, that they are now quiet, it is, becauſe they are not ſtrong enough to carry a Rebellion.</p>
+            <p>Note, The Papiſts pretend they are pu<g ref="char:EOLhyphen"/>niſhed for ſerving God according to their Conſciences, but this plea is eaſily anſwe<g ref="char:EOLhyphen"/>red, for,
+<list>
+                  <item>1. Treaſon is Treaſon, though men
+<pb n="26" facs="tcp:152693:16"/>think they are bound in Conſcience to com<g ref="char:EOLhyphen"/>mit it; one main point of the Popiſh Re<g ref="char:EOLhyphen"/>ligion is Treaſonable in it ſelf, and tends to deſtroy all evil Government, and that is the Popes ſupream Authority and juriſdiction.</item>
+                  <item>2. The Papiſts have ſuffered for plain and evident Treaſons, and thoſe Treaſons were the occaſions of making ſevere Laws à: gainſt them.</item>
+                  <item>3. The civil Government is bound to defend and maintain the true Re<g ref="char:EOLhyphen"/>ligion and the publick peace, and therefore may and ought to puniſh and ſuppreſs thoſe perſons, that by any wilfull actions go a<g ref="char:EOLhyphen"/>bout to deſtroy or diſturb the true Religi<g ref="char:EOLhyphen"/>on or publick peace, though ſuch perſons think themſelves bound in conſcience to do what they do.</item>
+               </list>
+            </p>
+            <p n="23">23. <hi>Q.</hi> Are there works of Supererogati<g ref="char:EOLhyphen"/>on, can any do more than God requires, or do all men in this life fall ſhort of much, which in duty they are bound to do?</p>
+            <p>A. <hi>When you have done all, ſay we are un<g ref="char:EOLhyphen"/>profitable ſervants,</hi> Luk. 17.10. <hi>How ſhould a man be juſt with God, if he will contend with him,</hi> 
+               <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ob. 9.2.3.</p>
+            <p>Note, The Papiſts diſtinguiſh between Commands and Evangelical Councils, the doing of the former they account neceſſary to ſalvation, the doing of the latter highly meritorious, for that a man is not bound to do ſuch things; But this is repugnant to
+<pb n="27" facs="tcp:152693:16"/>the Scripture, which makes all Divine Councils to be commands.</p>
+            <p>Note, The pride of Popery, they teach that works of Supererogation are more noble and excellent than thoſe of Gods Law.</p>
+            <p>Note, There is much poyſon in this Po<g ref="char:EOLhyphen"/>piſh Doctrine.
+<list>
+                  <item>1. Hereby they debaſe the Law of God.</item>
+                  <item>2. Pretend to do all (yea more then) that the Law requires.</item>
+                  <item>3. In<g ref="char:EOLhyphen"/>ſinuate, that by works of Supererogation they can help others.</item>
+                  <item>4. Affirm, that their Monks and Fryars abound in theſe works <hi>&amp;c.</hi>
+                  </item>
+               </list> And ſo ſhall have greater glory in Heaven, and may ſatisfie for the ſins of o<g ref="char:EOLhyphen"/>thers, <hi>viz.</hi> By their vow of ſingle life, of regular obedience, <hi>&amp;c.</hi>
+            </p>
+            <p n="24">24. <hi>Q.</hi> Can any one in this life perfectly fulfill the Law of God, did ever any man (our Saviour excepted) keep all the com<g ref="char:EOLhyphen"/>mandements without the leaſt ſin?</p>
+            <p>A. <hi>There is not a juſt man upon Earth that doth good and ſinneth not,</hi> Eccl. 7.20. <hi>Who can ſay I have made my heart clean,</hi> Pro. 20.9 <hi>If we ſay we have no ſin, we deceive our ſelves,</hi> 1 John 1.8. <hi>In many things we offend all,</hi> Jam. 3.2.</p>
+            <p>Note, we are ſo far from perfect keeping the Law, that we cannot perfectly do any good work, as the Church and St. <hi>Paul</hi> confeſſes, <hi>Eſa.</hi> 64.6. <hi>Rom.</hi> 7.21.</p>
+            <pb n="28" facs="tcp:152693:17"/>
+            <p>Note, The Papiſts have taught the Qua<g ref="char:EOLhyphen"/>kers this arrogant Doctrine of perfection, whereas the ancient Fathers affirm, that the higheſt perfection of a Chriſtian in this life is to ſee his own imperfection.</p>
+            <p>Note, The grace of God in this life ne<g ref="char:EOLhyphen"/>ver raiſeth man to perfect exact unſinning obedience, but it creates in him a ſincere obedience to the whole Goſpel, and quick<g ref="char:EOLhyphen"/>ens him to bewail his frailties and infirmi<g ref="char:EOLhyphen"/>ties; all the perfection attainable in this life, is when the will habitually entertains nothing that is contrary to the love of God.</p>
+            <p>Note, If a man could perfectly fulfil the law then (he need not daily pray (as our Saviour hath taught) for the pardon of his ſins. 2. Then after grace received and ſanctification, he would no more need Chriſt as a Mediator. 3. Then he might be juſtified, and obtain eternal life by the law which is contrary to the Doctrine of St. <hi>Paul.</hi>
+            </p>
+            <p>Note, The impoſſibility of keeping Gods commandments perfectly, is not from the nature of his commands, but the corruption of mans nature; and thus we are to underſtand the ancient Fathers when they ſay that God doth not command things impoſſible.</p>
+            <p n="25">25. <hi>Q.</hi> May, a true believer in this life,
+<pb n="29" facs="tcp:152693:17"/>be certainly aſſured that he is in the ſtate of grace; is this certainty more than a bare conjectural hope? is it an infallible aſſurance grounded upon the promiſes of God, the inward evidence of thoſe graces unto which thoſe promiſes are made, the Teſtimony of the ſpirit witneſſing that we are the children of God?</p>
+            <p>A. <hi>Hereby we know that we know him, if we keep his commandements,</hi> 1 John 2.3. <hi>We know that we have paſſed from death unto life, becauſe we love the Brethren,</hi> 1 John 3.14. <hi>Theſe things have I written unto you, that ye may know that ye have eternal life,</hi> 1 Joh. 5.13. <hi>We deſire you to ſhew the ſame dili<g ref="char:EOLhyphen"/>gence, to the full aſſurance of hope,</hi> Heb. 6.11. <hi>The ſpirit it ſelf beareth witneſs with our ſpirits, that we are the Children of God,</hi> Rom. 8.16. <hi>Grieve not the ſpirit, whereby ye are ſealed to the day of Redemption,</hi> Eph. 4.30. <hi>God is willing that the Heirs of the promiſe ſhould have ſtrong Conſolation,</hi> Heb. 6.17.18. <hi>Give diligence to make your calling and election ſure,</hi> 2 Pet. 1.10.</p>
+            <p>Note, All the ancient creeds agree to this, they have this article expreſly, I be<g ref="char:EOLhyphen"/>lieve the forgiveneſs of ſins, now the mean<g ref="char:EOLhyphen"/>ning of it (as St. <hi>Auguſtine</hi> and the School<g ref="char:EOLhyphen"/>men obſerve) is this, I believe that Re<g ref="char:EOLhyphen"/>miſſion of ſins by Chriſt is given to me, becauſe I believe in him; So that it was the
+<pb n="30" facs="tcp:152693:18"/>judgment of the primitive Church, that men ſhould believe the forgiveneſs of their own ſins.</p>
+            <p>Note, A Papiſt in ſaying the Creed, be<g ref="char:EOLhyphen"/>lieves no more than the Devil himſelf doth, <hi>viz.</hi> That God gives Remiſſion of ſins to his Church and people, and ſo in ſaying the Lords prayer, he believes no more than the Devil doth, <hi>viz.</hi> That God is a Father to ſome, not that he is his Father in Chriſt. Oh! into what a gulph of diſcomforts doth Popery plunge men, their Souls muſt hang in fears and doubts all their dayes, they cannot tell whether they ſhall be ſaved or damned, it's a Hell on this ſide Hell.</p>
+            <p n="26">26. <hi>Q.</hi> Should we pray to the Apoſtles, and Saints departed, the B. Virgin <hi>Mary,</hi> &amp;c. Should we give Religious worſhip to them or to God alone? Should we go to God in the mediation of Chriſt alone, or do we need the Saints departed to be medi<g ref="char:EOLhyphen"/>ators and interceſſors for us? what directi<g ref="char:EOLhyphen"/>on doth the Scripture give?</p>
+            <p>A. <hi>Call upon me in the day of trouble,</hi> Pſal. 50.15. <hi>Say our Father which art in Hea<g ref="char:EOLhyphen"/>ven,</hi> Luke 11.2. <hi>Thou ſhalt worſhip the Lord thy God, and him only,</hi> Mat. 4.10. <hi>My glo<g ref="char:EOLhyphen"/>ry I will not give to another,</hi> Eſa. 42.8. <hi>How ſhall they call upon him in whom they have not believed,</hi> Rom. 10.14. <hi>Let no man beguile you in a voluntary humility, and wor<g ref="char:EOLhyphen"/>ſhipping
+<pb n="31" facs="tcp:152693:18"/>of Angels,</hi> Col. 2.18. <hi>There is one mediatour between God and men, the man Chriſt Jeſus,</hi> 1 Tim. 2.5. <hi>Through him we acceſs unto the Father,</hi> Eph. 2.18. <hi>Do all in the name of the Lord Jeſus,</hi> Col. 3.17. <hi>Whatſoever ye ſhall ask in my name I will do it,</hi> John 14.3. <hi>No man comes to the Father but by me,</hi> John 14.6. <hi>We have an advocate with the Father Jeſus Chriſt the righteous,</hi> 1 John 2.1.</p>
+            <p n="27">27. <hi>Q.</hi> Is there any ground for us to be<g ref="char:EOLhyphen"/>lieve, that the Saints in <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaven know our particular perſons, wants, neceſſities, de<g ref="char:EOLhyphen"/>ſires, or doth the Scripture intimate the contrary?</p>
+            <p>A. <hi>Doubtleſs, thou art our Father, though</hi> Abraham <hi>be ignorant of us, and</hi> Iſrael <hi>know us not,</hi> Eſa. 63.16. <hi>Thou ſendeſt man away, his Sons come to honour, and he knows it not, they are brought low, but he perceives it not,</hi> Job. 14.21.</p>
+            <p n="28">28. <hi>Q.</hi> If an Angel ſhould appear to us, or if the Apoſtles were preſent upon Earth with us, or the bleſſed Virgin; would they ſuffer us to kneel down and give religious worſhip and adoration to them, with ſuch ſolemnity, as the Popiſh Crue adore and worſhip Angels and Saints departed, and their Images</p>
+            <p>A. <hi>I</hi> John <hi>fell down to worſhip before the feet of the Angel, then ſaith he, ſee thou do
+<pb n="32" facs="tcp:152693:19"/>it not, for I am thy fellow ſervant, worſhip God,</hi> Rev. 22 8 9. Cornelius <hi>fell down at</hi> Peters <hi>feet and worſhipped him,</hi> and Peter <hi>ſaid ſtand up, I my ſelf alſo am a man,</hi> Act. 10.25. <hi>They would have done Sacrifice, and</hi> Paul <hi>and</hi> Barnabas <hi>run in among the people, crying, Sirs, why do yee theſe things,</hi> Act. 14.14.</p>
+            <p>Note, The Papiſts pray as much, or more to the Virgin <hi>Mary</hi> and Saints departed, as to God. What is ſpoken of God, and to God in the Pſalms, they apply to the Virgin <hi>Mary,</hi> in a book called our <hi>Ladies Pſalter;</hi> they teach that it is lawful to ſay the Lords prayer to the Virgin <hi>Mary</hi> and the Saints departed, that we ſay to them, our Fathers hallowed be your name, and ſo of all the other Petitions.</p>
+            <p>Note, We find in the word of God but two kinds of worſhip, a Religious worſhip due only to God, and a civil honour uſed amongſt men; the Popiſh diſtinction of Religious worſhip into <hi>Dulia</hi> and <hi>Latria,</hi> the former to men, the latter to God is blaſphemous, contrary to Scripture direct<g ref="char:EOLhyphen"/>ly, a new coined device to palliate Idola<g ref="char:EOLhyphen"/>try.</p>
+            <p>Note, The Papiſts by praying in that manner as they do to the Saints departed, do give them the higheſt Religious wor<g ref="char:EOLhyphen"/>ſhip and adoration that can be, and ſo are guilty of fearful Idolatry.</p>
+            <pb n="33" facs="tcp:152693:19"/>
+            <p>Note, The Angel, <hi>Gen.</hi> 48 16 muſt be underſtood of Chriſt, who is called an An<g ref="char:EOLhyphen"/>gel, <hi>Mal.</hi> 3.1. <hi>Exod.</hi> 23.20. not of a created Angel, for a created Angel did not redeem him from all evil, as he ſaith there.</p>
+            <p n="29">29. <hi>Q.</hi> Should prayers, and the ſervice of God be performed in a tongue unknown, not underſtood by the people, what ſaith St. <hi>Paul</hi> of this?</p>
+            <p>A. <hi>Except ye utter words eaſie to be under<g ref="char:EOLhyphen"/>ſtood, how ſhall it be known what is ſpoken? how ſhall the unlearned ſay Amen? in the Church I had rather ſpeak five words (to edi<g ref="char:EOLhyphen"/>fication) than Ten thouſand words in an un<g ref="char:EOLhyphen"/>known tongue,</hi> 1 Cor. 14.9.16, 19.</p>
+            <p>Note, St. <hi>Paul</hi> in 1 <hi>Cor.</hi> 14. Throughout diſputes againſt praying and ſpeaking in a ſtrange language, in an unknown tongue; yet the Papiſts will have their prayers in Latine, though the people underſtand not one word of them.</p>
+            <p>Note, The Papiſts themſelves acknow<g ref="char:EOLhyphen"/>ledge, that Chriſt and the Apoſtles, and the primitive Church, for more than ſix hun<g ref="char:EOLhyphen"/>dred years did not uſe prayers in an un<g ref="char:EOLhyphen"/>known tongue.</p>
+            <p>Note, The Papiſts have a wicked deſign to keep people in ignorance, and therefore will not ſuffer them to underſtand their own prayers.</p>
+            <pb n="34" facs="tcp:152693:20"/>
+            <p n="30">30. <hi>Q.</hi> Should we pray for the dead?</p>
+            <p>A. <hi>Now the Child is dead, why ſhould I faſt and pray,</hi> 2 Sam. 12.21. <hi>Bleſſed are they that dye in the Lord,</hi> Rev. 14.13.</p>
+            <p>Note, They that dye in the Lord, need not our prayers, and they that dye in their ſins can have no benefit by them.</p>
+            <p>Note, The Popiſh Prieſts get ſo much money by prayers for the dead, that they are unwilling to acknowledge it to be an errour.</p>
+            <p>Note, For praying for the dead, or praying to the Saints, we have
+<list>
+                  <item>1. No com<g ref="char:EOLhyphen"/>mand from God.</item>
+                  <item>2. No promiſe to be heard.</item>
+                  <item>3. No example in Scripture.</item>
+               </list>
+            </p>
+            <p n="31">31. <hi>Q.</hi> Are aequivocations of mental Reſervations good and lawful?</p>
+            <p>A. <hi>Ye ſhall not deal falſly or lye,</hi> Lev. 19.11. <hi>Their tongue ſpeaketh deceit,</hi> Jer. 9.8. <hi>Let your Communication be yea, yea, and nay, nay,</hi> Matt. 5.37. <hi>He that hath not ſworn deceitfully, ſhall receive the bleſſing from the Lord,</hi> Pſal. 24.4. <hi>An oath is the end of all ſtrife,</hi> Heb 6.16. <hi>Thou ſhalt ſwear in truth,</hi> &amp;c. Jer. 4.2.</p>
+            <p>Note, If it be lawful to aequivocate, if this be not lying, as Papiſts teach;
+<list>
+                  <item>1. The Devil cant be the Father of lies, for he could never want a mental Reſervation.</item>
+                  <item>2. The Martyrs were fools, and ſelf murtherers in not ſaving their lives by this Jeſuitical
+<pb n="35" facs="tcp:152693:20"/>trick.</item>
+                  <item>3. There can be no ſuch thing as per<g ref="char:EOLhyphen"/>jury, &amp; falſhood in any but Idiots, and natu<g ref="char:EOLhyphen"/>rals, that have not wit enough to aequivo<g ref="char:EOLhyphen"/>cate.</item>
+                  <item>4. There can be no ſincere faith or truſts in oaths, covenants, contracts, pro<g ref="char:EOLhyphen"/>miſes, leagues of agreement, either pub<g ref="char:EOLhyphen"/>like or private, for who knowes what ſe<g ref="char:EOLhyphen"/>cret evaſions &amp; reſtrictions men may have in their minds.</item>
+               </list>
+            </p>
+            <p n="32">32. <hi>Q.</hi> Was St. <hi>Peter</hi> Prince of the A<g ref="char:EOLhyphen"/>poſtles, or had they all equal power and Authority?</p>
+            <p>A. <hi>Jeſus ſaid the Princes of the Gentiles exerciſe Dominion, but it ſhall not be ſo among you,</hi> Mat. 20.25. <hi>The Apoſtles ſent</hi> Peter <hi>and</hi> John, Act. 8.14. <hi>ſee alſo</hi> Gal. 2.7 2 Cor. 11.5. Gal. 2.9.</p>
+            <p n="33">33. <hi>Q.</hi> When Chriſt ſaid to <hi>Peter</hi> (<hi>Thou art</hi> Peter, <hi>and upon this Rock I will build my Church, I give unto thee the Keyes of the Kingdom of Heaven, whatſoever thou ſhalt bind on Earth, ſhall be bound in Heaven,</hi> &amp;c.) Mat. 16.18. Was this ſpoken to the reſt of the Apoſtles, and doth it belong to them as well as to St. <hi>Peter?</hi>
+            </p>
+            <p>A. <hi>Ye are built upon the foundation of the Apoſtles,</hi> Eph. 2.20. <hi>The City had</hi> 12 <hi>foun<g ref="char:EOLhyphen"/>dations, and in them the names of the</hi> 12 <hi>Apoſtles,</hi> Rev. 21.14. <hi>Then Jeſus ſaid to them (the Apoſtles) whoſe ſins ye remit, they are remitted; whoſe ſins ye retain, they are re<g ref="char:EOLhyphen"/>tained,</hi>
+               <pb n="36" facs="tcp:152693:21"/>John 20.23. Mat. 18.18.</p>
+            <p>Note, St. <hi>Peter</hi> was never head of the Church, or Prince of the Apoſtles; But if he had been ſo, how ſhould the Pope come to be his ſucceſſor, where doth Chriſt give this power to the Biſhop of <hi>Rome?</hi>
+            </p>
+            <p n="34">34. <hi>Q.</hi> Is there no other head of the Church but Chriſt?</p>
+            <p>A. <hi>Chriſt is head of the Church,</hi> Col. 1.18. <hi>God hath given Chriſt to be head over all things to the Church, which is his body,</hi> Eph. 1.22. <hi>As the Husband is head of the wife, ſo Christ is the head of the Church,</hi> Eph. 5.23. <hi>The head even Chriſt,</hi> Eph. 4.15.</p>
+            <p>Note, If the Pope be head of the Ca<g ref="char:EOLhyphen"/>tholick Church, then
+<list>
+                  <item>1. St. <hi>Paul</hi> was great<g ref="char:EOLhyphen"/>ly miſtaken.</item>
+                  <item>2. The Catholick Church muſt be the Popes body and ſpouſe.</item>
+                  <item>3. The Church would have no head, when there is no Pope.</item>
+                  <item>4. The Church muſt have two or three heads, when there are two or three Popes (as ſometimes have been for ſeveral years):</item>
+                  <item>5. The Church ſhould have an un<g ref="char:EOLhyphen"/>ſound head, when the Pope is Heretical, as ſundry Popes have been by confeſſion of their own Doctors.</item>
+               </list>
+            </p>
+            <p>Note, Queen <hi>Elizabeth,</hi> King <hi>James,</hi> King <hi>Charles,</hi> would not be called head of the Church, becauſe they thought that title Antichriſtian, entrenching upon the right of Chriſt.</p>
+            <pb n="37" facs="tcp:152693:21"/>
+            <p n="35">35. <hi>Q.</hi> Doth the word juſtifie in Scrip<g ref="char:EOLhyphen"/>ture, ſignifie to abſolve or pronounce a man righteous, not to infuſe or put righte<g ref="char:EOLhyphen"/>ouſneſs into a man?</p>
+            <p>A. <hi>They ſhall juſtifie the righteous, and condemn the wicked,</hi> Deut. 25.1. <hi>He that juſtifieth the wicked, and he that condemneth the juſt are an abomination to the Lord,</hi> Pro. 17.15. Eſa. 5.23.</p>
+            <p>Note, The Scriptures ſpeaking of juſti<g ref="char:EOLhyphen"/>fication, makes it a diſcharging and acquit<g ref="char:EOLhyphen"/>ting from accuſations, and ſo doth legally make juſt, not qualitatively; as if to juſti<g ref="char:EOLhyphen"/>fie, were to make juſt &amp; holy as the Papiſts contend, who confound juſtification with ſanctification.</p>
+            <p>Note, This is not a vain ſtrife of words, for the great Article of our Religion de<g ref="char:EOLhyphen"/>pends upon the right diſcovery of the uſe of the word: if to juſtifie, ſignifie to give us an inherent righteouſneſs, then by that we may appear before God; but if to juſtifie, ſignifie to acquit us being accuſed for ſin, through the grace of God and righteouſneſs of Chriſt, then we are to go out of our ſelves, and to rely upon Chriſts righteouſneſs; nor can the Papiſts produce any one place of Scripture, where the word juſtifie is put for making righteous by ha<g ref="char:EOLhyphen"/>bitual and actual righteouſneſs inherent in us, as they would have it.</p>
+            <pb n="38" facs="tcp:152693:22"/>
+            <p n="36">36. <hi>Q.</hi> Is the Doctrine of imputed righteouſneſs clearly taught in Scripture?</p>
+            <p>A. <hi>Bleſſed is the man to whom God im<g ref="char:EOLhyphen"/>puteth righteouſneſs without works,</hi> Rom. 4.6. <hi>That righteouſneſs might be imputed to them alſo,</hi> Rom. 4.11. <hi>It ſhall be imputed to us alſo, if we believe,</hi> Rom. 4.24.</p>
+            <p>Note, <hi>Chriſts righteouſneſs is made ours, as our ſins were made his, and that is only by imputation,</hi> 2 Cor. 5.21.</p>
+            <p>Note, We do not ſay that Chriſts righte<g ref="char:EOLhyphen"/>ouſneſs, is our formal righteouſneſs; but it is the matter whereby we ſtand juſtified fore God,</p>
+            <p>Note, The Popiſh party flout at this Doctrine, calling it the putative and chine<g ref="char:EOLhyphen"/>rical righteouſneſs, and yet affirm that the merits of one Saint may be imputed to a<g ref="char:EOLhyphen"/>nother.</p>
+            <p n="37">37. <hi>Q.</hi> Are we accounted righteous be<g ref="char:EOLhyphen"/>fore God, only for the merit of our Lord and Saviour Jeſus Chriſt applyed by faith, and not for our own works and merits?</p>
+            <p>A. <hi>By the Obedience of one, ſhall many be made righteous,</hi> Rom. 5.19. <hi>Chriſt is made of God to us righteouſneſs,</hi> 1 Cor. 1.30 <hi>A man is juſtified by faith, without the deeds of the Law</hi> Rom. 3.28. <hi>A man is not juſtified by the works of the Law, but by the faith of Chriſt,</hi> Gal. 2.<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6. <hi>By the deeds of the Law, ſhall no fleſh be juſtified,</hi> Rom. 3.20. <hi>By
+<pb n="39" facs="tcp:152693:22"/>grace ye are ſaved through faith; not of works leſt any ſhould boaſt,</hi> Eph. 2.8. <hi>Where is boaſting then? it is excluded: by what Law? of Works? nay, but by the law of faith,</hi> Rom. 3.27. <hi>ſee</hi> Rom. 4.2, 3, 4, 5, 6, 7. Phil. 3.8, 9.</p>
+            <p>Note, The Church of <hi>Rome,</hi> by their falſe Doctrine in the matter of juſtification, raze the very foundation of the Chriſtian Religion, <hi>Gal.</hi> 5.4.</p>
+            <p>Note, There is a new invention of the Papiſts, of a firſt and ſecond juſtification. The firſt juſtification, they call that, when a wicked man is at firſt made holy, having a ſupernatural principle of grace infuſed into him, which doth inherently juſtifie him. A ſecond juſtification they call that, where<g ref="char:EOLhyphen"/>by a man being already juſt, doth encreaſe and grow in his righteouſneſs, and ſo is more juſtified. The ſecond juſtification they plainly acknowledge, is obtained by our merits, and the good uſe of grace already received. St. <hi>Paul</hi> they ſay ſpeaks of the firſt juſtification, but St. <hi>James</hi> of the ſe<g ref="char:EOLhyphen"/>cond juſtification, <hi>Rom.</hi> 3.28. <hi>Gal.</hi> 2.16. <hi>Jam.</hi> 2.24. But this diſtinction as they ex<g ref="char:EOLhyphen"/>plain it, is reproachful to Chriſts righteouſ<g ref="char:EOLhyphen"/>neſs, and flatly contrary to the Scripture; for both theſe juſtifications are built upon a falſe foundation, <hi>viz.</hi> That our inherent righteouſneſs, habitual or actual, is that,
+<pb n="40" facs="tcp:152693:23"/>which doth juſtifie us in Gods ſight. Now this is a palpable errour; for
+<list>
+                  <item>1. The Scrip<g ref="char:EOLhyphen"/>ture doth exclude all kind of works from the buſineſs of juſtification, as appears by the frequent disjunction, or oppoſition of faith and works throughout the Scripture; 'twas the Errour of thoſe againſt whom St. <hi>Paul</hi> dealeth in his Epiſtles, to reſt half upon Chriſt, and half upon works.</item>
+                  <item>2. Our righteouſneſs and beſt works are imperfect, and therefore will not endure the pure eyes of God. Hence it is, that Gods Children ſo oft in Scripture, diſclaim the Plea of their own righteouſneſs, <hi>Job, David,</hi> the Apoſtle <hi>Paul, Job.</hi> 9.3. <hi>Pſal.</hi> 143.3. <hi>Phil.</hi> 3 9.</item>
+                  <item>3. When we make our own righte<g ref="char:EOLhyphen"/>ouſneſs and obedience the matter of our juſtification, we glory in our ſelves, and de<g ref="char:EOLhyphen"/>tract from free grace, by which alone we are juſtified through the merits of Chriſt.</item>
+               </list>
+            </p>
+            <p>Note, St. <hi>Paul</hi> diſputeth how we are juſtified, St. <hi>James</hi> how we ſhall evidence our ſelves to be juſtified, he takes juſtifica<g ref="char:EOLhyphen"/>tion for the declaration, and manifeſtation of it, <hi>Jam.</hi> 2.24.</p>
+            <p>Note, When the Apoſtle <hi>Paul,</hi> argueth vehemently againſt juſtification by the law, he doth yet preſs the duty of the law, <hi>Rom.</hi> 3.13. So then the Law continueth as a rule, though not as a covenant, by which we are to be juſtified; though it be not ap<g ref="char:EOLhyphen"/>pointed
+<pb n="41" facs="tcp:152693:23"/>to <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtifie, yet it is commanded as the way we ſhould walk in. It is a dangerous Antichriſtian error, when we do good works and endeavour to keep Gods Commande<g ref="char:EOLhyphen"/>ments, that thereby God may pronounce us righteous; and it's no leſs dangerous on the contrary to neglect the doing of good works, becauſe Gods order is to Commu<g ref="char:EOLhyphen"/>nicate the benefit of Chriſts righteouſneſs, to none but ſuch as ſhall by faith receive him, and walk obedientially in his Com<g ref="char:EOLhyphen"/>mands.</p>
+            <p>Note, Excellent is the Doctrine of the Church of <hi>England</hi> (which I wiſh were more carefully obſerved by ſome late learn<g ref="char:EOLhyphen"/>ed writers of her own) Chriſt is the righ<g ref="char:EOLhyphen"/>teouſneſs of all them that truly beli<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve in him, he hath paid their Ranſome by his death, he for them fulfilled the law in his life; ſo that now in him, and by him, every true Chriſtian man may be called a fulfiller of the low. 2. Part of the Serm. of ſalva<g ref="char:EOLhyphen"/>tion: becauſe faith doth directly ſend us to Chriſt for Remiſſion of ſins, and that by faith we embrace the promiſe of Gods mercy, and of the Remiſſion of our ſins, which thing no other of our vertues or works properly doth; therefore the Scrip<g ref="char:EOLhyphen"/>ture uſeth to ſay, that faith without works doth juſtifie: And therefore the ancient Fa<g ref="char:EOLhyphen"/>thers
+<pb n="42" facs="tcp:152693:24"/>of the Church ſay, only faith juſtifieth us. 3. Part of the Serm. of ſalvation.</p>
+            <p n="38">38. <hi>Q.</hi> Can we merit and deſerve Hea<g ref="char:EOLhyphen"/>ven, and eternal life by good works done by us?</p>
+            <p>A. <hi>Eternal life is the gift of God,</hi> Rom. 6.23. <hi>When ye have done all, ſay ye are un<g ref="char:EOLhyphen"/>profitable ſervants,</hi> Luke 17.10. <hi>If thou be righteous, what giveſt thou to God? or what receiveth he at thy hand?</hi> Job. 35.7.</p>
+            <p>Note, The Papiſts arrogantly hold, that by good works we bind God to give us eternal life, and that for the Dignity and Excellency of the thing done by us, and that thereby we are worthy of everlaſting life.</p>
+            <p>Note, Chriſt alone, is the Store-houſe of all our merits; we renounce all merits of our own works, and reſt only on the merits of Chriſt.</p>
+            <p>Note, The Doctrine of merits is moſt falſe and Antichriſtian; for,
+<list>
+                  <item>1. The Scrip<g ref="char:EOLhyphen"/>ture directly condemns it, <hi>Eph.</hi> 2.8, 10. <hi>Tit.</hi> 3.5.</item>
+                  <item>2. Our beſt works are imperfect.</item>
+                  <item>3. There is a vaſt diſproportion between them and the glory to come.</item>
+                  <item>4. They are debts which we owe to God.</item>
+                  <item>5. As good, they proceed from the Spirit of God.</item>
+                  <item>6. We do not profit God by them.</item>
+               </list>
+            </p>
+            <p>Note, Reward is two-fold, of Debt and of Mercy; life everlaſting is not a reward of debt, but of Mercy.</p>
+            <pb n="43" facs="tcp:152693:24"/>
+            <p>Note, Every true believer is worthy, not by his own works, but in Chriſt, and by his merits and righteouſneſs.</p>
+            <p>Note, It is a Popiſh dotage contrary to Scripture, to ſay, that Chriſt by his death merited that our works ſhould merit ever<g ref="char:EOLhyphen"/>laſting life; this is to make our ſelves Chriſts Partners in the office of Mediation, and ſo become our own Saviours and Re<g ref="char:EOLhyphen"/>deemers.</p>
+            <p>Note, The ancient Fathers by merits, mean thoſe good works to which God hath promiſed a reward, but utterly diſclaim all condignity in ſuch works, and with them to merit, is only to impetrate and obtain, how much they did abhor Popiſh merits; appears by ſuch ſpeeches as theſe, oft uſed by them: <hi>If God ſhould deal with men, ac<g ref="char:EOLhyphen"/>cording to their Deſerts, all muſt be damned, ſaith one.</hi> Another holy Father ſpeaks thus, <hi>The mercy of God is our merit.</hi> Another thus, <hi>When the reward comes, God will crown his gifts, not thy merits. Again, the righteouſneſs of man, is the indulgence of God,</hi> &amp;c.</p>
+            <p>Note, The meritorious works the Pa<g ref="char:EOLhyphen"/>piſts boaſt of, are chiefly the obedience, chaſtity, wilful poverty of their Monks and Fryars; and people were perſwaded by them, that to wear a Fryars Coat, would deliver them from Agues or Peſtilence; and to be buried in it, might ſave them; and that
+<pb n="44" facs="tcp:152693:25"/>the merits of theſe Monks did ſo abound, that they were able to ſatisfie, not only for their own ſins, but alſo for all their Bene<g ref="char:EOLhyphen"/>factors and friends. Now,
+<list>
+                  <item>1. For their obedience, under colour of obedience to their Father Abbot or Pryor, they freed them<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elves from obedience to their natural Parents, and from obedience to the King, and all temporal power.</item>
+                  <item>2. For their Cha<g ref="char:EOLhyphen"/>ſtity, under colour of ſingle life; what ex<g ref="char:EOLhyphen"/>ecrable Whoredoms, Adulteries, and Sodo<g ref="char:EOLhyphen"/>mitry they are guilty of? is ſufficiently known. In the year 1538. The Kings viſi<g ref="char:EOLhyphen"/>ters found in ſome Abbies, Twenty Sodo<g ref="char:EOLhyphen"/>mitres and Adulterers; ſome kept five, ſome ſeven, ſome twenty Harlots. Six thouſand heads of young children were found in the Fiſh ponds of <hi>Gregory</hi> the firſt, a Biſhop of <hi>Rome</hi> Yea, they are not aſhamed to write, that if any of their Monks or Prieſts be found embracing a woman, it muſt be ſup<g ref="char:EOLhyphen"/>poſed that he doth it to bleſs her.</item>
+                  <item>3. For their poverty, though in poſſeſſions, Money, Jewels, Plate, and Riches, they exceed Barons, Earls or Dukes; yet they pretend they keep their Vow, &amp; are Poor, becauſe what they have, is proper in common; they cannot diſpoſe of any thing without leave of their Abbot.</item>
+               </list> Theſe are the goodly merits of the Romiſh Church.</p>
+            <pb n="45" facs="tcp:152693:25"/>
+            <p n="39">39. <hi>Q.</hi> Is it lawful for Miniſters, or per<g ref="char:EOLhyphen"/>ſons in holy Orders to marry?</p>
+            <p>A. <hi>Marriage is honourable among all men,</hi> Heb. 13.3. <hi>For avoiding of fornication, let every man have his own Wife,</hi> 1 Cor. 7.2. <hi>Have we not power to lead about a Siſter, as a Wife, as well as other Apoſtles, and as the Brethren of the Lord, and</hi> Cephas, 1 Cor. 9.5. <hi>A Biſhop muſt be blameleſs the Husband of one Wife,</hi> 1 Tim. 3.2. <hi>Their Wives muſt be grave and ſober,</hi> 1 Tim. 3.11. <hi>Doctrines of Devils, forbidding to marry,</hi> 1 Tim. 4.3.</p>
+            <p>Note, St. <hi>Paul</hi> ſaith, forbidding to mar<g ref="char:EOLhyphen"/>ry is a Doctrine of Devils; but the Pa<g ref="char:EOLhyphen"/>piſts forbid their Prieſts to marry, affirm<g ref="char:EOLhyphen"/>ing marriage in Prieſts to be a greater ſin than Whoredom, in compenſation for their ſingle life; they will allow their Prieſts and Monks three or four Whores a piece: they think marriage inconſiſtent with the Digni<g ref="char:EOLhyphen"/>ty of a Clergy-man, not fornication; they who would have Popery prevail, muſt be content to have their Children, Prieſts and Monks, Baſtards.</p>
+            <p n="40">40. <hi>Q.</hi> Is every man and woman bound to a particular confeſſion of all his ſins to a Prieſt under pain of Damnation?</p>
+            <p>A. <hi>Make confeſſion unto the Lord God of your Fathers,</hi> Ezra 10.11. <hi>Againſt thee only have I ſinned,</hi> Pſal. 51.3.</p>
+            <pb n="46" facs="tcp:152693:26"/>
+            <p>Note, The Popiſh Doctrine of confeſ<g ref="char:EOLhyphen"/>ſing once a year to a Prieſt, hath no example or precept for it in Scripture, but this is one great artifice and engine by which the Pope keeps people in Devotion to his in<g ref="char:EOLhyphen"/>tereſt, knowledge of ſecrets, rendring him and his party the more feared; and it's the pick-lock of the Cabinets of Princes. Be<g ref="char:EOLhyphen"/>ſides, he that makes confeſſion, muſt ſubmit to the penance, however chargeable or fooliſh which the Prieſt enjoins; ſo that he and his Family are entirely in the power of this maſter of their ſecrets.</p>
+            <p n="41">41. <hi>Q.</hi> Hath Chriſt fully ſatisfied for the ſins of men, and for the whole puniſh<g ref="char:EOLhyphen"/>ment both Eternal and Temporal? and doth God fully forgive our ſins for Chriſts ſake?</p>
+            <p>A. <hi>There is no condemnation to them that are in Chriſt Jeſus,</hi> Rom. 8.1. <hi>On him was laid the iniquity of us all,</hi> Eſa. 53.5. <hi>He hath delivered us from the curſe of the Law,</hi> Gal. 3.13. <hi>He had made peace through the blood of his Croſs, reconciling us unto God,</hi> Col. 1.20. <hi>I will forgive their ſins, and re<g ref="char:EOLhyphen"/>member their iniquities no more,</hi> Jer. 31.34. <hi>See</hi> Micha. 7.19. Eſa. 1.18. <hi>The blood of Chriſt cleanſeth us from all ſin,</hi> 1 John 1.7. <hi>Chriſt is the propitiation for our ſins,</hi> 1 John 2.2. <hi>The Lamb of God that takes away the ſins of the world,</hi> John 1.29. <hi>We are juſti<g ref="char:EOLhyphen"/>fied
+<pb n="47" facs="tcp:152693:26"/>freely through the Redemption that is in Chriſt,</hi> Rom. 3.24.</p>
+            <p>Note, Although the Scripture be ſo co<g ref="char:EOLhyphen"/>pious and cleer in this point; yet the Pa<g ref="char:EOLhyphen"/>piſts blaſphemouſly teach, that Chriſt hath ſatisfied only for the eternal puniſhment, and we muſt ſatisfie for the temporal pu<g ref="char:EOLhyphen"/>niſhment of our ſins, either in this life, or purgatory after this life: and that we muſt make ſatisfaction by works of cha<g ref="char:EOLhyphen"/>rity, whipping our ſelves, fulfilling penance enjoined by a Prieſt, enduring the pains of purgatory, or buying pardons, <hi>&amp;c.</hi>
+            </p>
+            <p>Note, By this Doctrine they fill their purſes, but derogate from the ſufficiency of Chriſts ſatisfaction, and make him but half a Saviour, his ſatisfaction imperfect, and man his own redeemer and Saviour, and God not to forgive ſins freely.</p>
+            <p>Note, In this point the Papiſts err again in the very foundation and life of Religi<g ref="char:EOLhyphen"/>on.</p>
+            <p>Note, The afflictions of Gods children in this life, are not properly puniſhments or ſatisfactory, but chaſtiſements, corrections, tryals, for their ſpiritual benefit and advan<g ref="char:EOLhyphen"/>tage, 1 <hi>Cor.</hi> 11.32. <hi>Heb.</hi> 12.7.</p>
+            <p n="42">42. <hi>Q.</hi> Hath God only power to forgive ſins.</p>
+            <pb n="48" facs="tcp:152693:27"/>
+            <p>A. <hi>Who can forgive ſins but God only?</hi> Mark 2.7. <hi>I, even I am he that blotteth out thy Tranſgreſſions,</hi> Eſa. 43.25.</p>
+            <p>Note, Thoſe words <hi>[Whoſoever ſins ye remit, they are remitted, and whoſoever ſins ye retain, they are retained]</hi> were ſpoken to the Apoſtles, and in them to all other Miniſters of the Goſpel, and have this meaning, <hi>viz.</hi> As many as upon the preach<g ref="char:EOLhyphen"/>ing of the Goſpel, by you ſhall come in and yield themſelves up to the tenders of grace therein proclaimed ſhall be pardo<g ref="char:EOLhyphen"/>ned, and ſuch as continue obſtinate ſhall periſh under their former guilt, <hi>John</hi> 20.23. In like manner, we are to underſtand the words of our Saviour concerning the pro<g ref="char:EOLhyphen"/>miſe of the Keyes of the Kingdom of Heaven to be given to the Apoſtles, and in them to their ſucceſſors in preaching the Goſpel, <hi>Matt.</hi> 16.19. God giveth to the Miniſters in his Church power to forgive ſins, not abſolutely and properly, but de<g ref="char:EOLhyphen"/>claratively and miniſterially, that is, autho<g ref="char:EOLhyphen"/>rity to aſſure repenting and believing ſin<g ref="char:EOLhyphen"/>ners of Gods forgiveneſs: and thus alſo the ancient Fathers expound the forementi<g ref="char:EOLhyphen"/>oned places.</p>
+            <p>Note, The Pope takes upon him for mo<g ref="char:EOLhyphen"/>ney; to grant pardons and indulgencies for hundreds, yea for thouſands of years; but if he have ſuch power, why doth he not out
+<pb n="49" facs="tcp:152693:27"/>of charity deliver all Souls out of purga<g ref="char:EOLhyphen"/>tory? (yea out of Hell) if his pardons be, (as they are called) plenary and general pardons and indulgences.</p>
+            <p>Note, Popiſh pardons and indulgences are grounded upon a Dunghill of filthy errours,
+<list>
+                  <item>1. They ſay, there is ſuch a place as purgatory.</item>
+                  <item>2. That God upon a mans confeſſion of his ſins to a Prieſt, forgives the fault of his ſins, but changeth the eter<g ref="char:EOLhyphen"/>nal puniſhment into temporal puniſhment: ſo though the fault be remitted, and the eternal puniſhment; yet the temporal pu<g ref="char:EOLhyphen"/>niſhment of ſin remains, for which God muſt be ſatisfied, either by a mans ſatis<g ref="char:EOLhyphen"/>factory works, or by his enduring of the pains of purgatory.</item>
+                  <item>3. They ſay that the bleſſed Virgin, the Apoſtles and Martyrs, and other Saints have ſuffered more puniſh<g ref="char:EOLhyphen"/>ment, than the merit of their ſins required, and done more good works than were ne<g ref="char:EOLhyphen"/>ceſſary to their Salvation.</item>
+                  <item>4. That their works of ſupererrogation, &amp; ſuperabound<g ref="char:EOLhyphen"/>ing merits (together with the ſuperabound<g ref="char:EOLhyphen"/>ing ſufferings and merits of Chriſt) are laid up and kept in our common Treaſury of the Church.</item>
+                  <item>5. That this Treaſury is committed by God to the Pope, who may give it out by pardons and indulgences to any contrite and penitent perſon, and thereby he ſhall be diſcharged from all tem<g ref="char:EOLhyphen"/>poral
+<pb n="50" facs="tcp:152693:28"/>puniſhment for his ſins, both in this life and in purgatory.</item>
+               </list>
+            </p>
+            <p>Now this is the received Doctrine of the Roman Church, for which they have no proof of Scripture, nor teſtimony of the ancient Fathers; nor can they agree among themſelves about the effect and va<g ref="char:EOLhyphen"/>lidity of theſe pardons and indulgencies; yea this Doctrine is evidently contrary to Scripture, abſurd and baſphemous. For
+<list>
+                  <item>1. Experience ſhews, that the Popes pardons do not free men from ſickneſs and death, therefore not from all temporal ſufferings.</item>
+                  <item>2. If Chriſts ſatisfaction be enough, what need the Saints merits be joyned with it?</item>
+                  <item>3. How came the Treaſure of the Church into the Popes keeping? When did Chriſt give him the keyes of it.</item>
+                  <item>4. Why doth not Chriſts ſatisfaction remit the temporal pu<g ref="char:EOLhyphen"/>niſhment, as well without the Popes in<g ref="char:EOLhyphen"/>dulgence as with it?</item>
+                  <item>5. The Scripture tea<g ref="char:EOLhyphen"/>ches that all puniſhment of ſin is remitted by the merits and ſatisfaction of Chriſt alone, <hi>Eſa</hi> 63.3. <hi>Matth.</hi> 26.28.</item>
+                  <item>6. The Scripture affirms, that God forgives ſin ful<g ref="char:EOLhyphen"/>ly and freely, <hi>Rom.</hi> 8.1.</item>
+                  <item>7. No Saints have ſuperabounding merits, for their beſt works are imperfect, <hi>Pſal.</hi> 130.3.</item>
+                  <item>8. One Saint cannot ſatisfie or merit for another, every man ſhall bear his own burthen, <hi>Gal.</hi> 6.5. <hi>Ezek.</hi> 18.20. <hi>Pſal.</hi> 49.8. <hi>Matth.</hi> 25.9.
+<pb n="51" facs="tcp:152693:28"/>
+                     <hi>Prov.</hi> 9.12. Every man ſhall receive his own reward according to his own labour, 1 <hi>Cor.</hi> 3.8. <hi>Ezek.</hi> 14.20.</item>
+               </list>
+            </p>
+            <p>Note, The Popiſh Jubilee, is now brought from every fiftieth year, to every five and twentieth year (or as oft as the Pope pleaſes) he promiſes to give full re<g ref="char:EOLhyphen"/>miſſion of ſins to all that perſonally viſit the Apoſtles Churches at <hi>Rome,</hi> if they be tru<g ref="char:EOLhyphen"/>ly penitent and confeſſed; this hath been ſo gainful a Trade, that one of the Popes left 115000 Ducats to his Succeſſor, which he had ſcraped together by ſelling pardons; upon computation it hath been found that the Pope hath had Three hundred thouſand pounds yearly out of <hi>England</hi> for indul<g ref="char:EOLhyphen"/>gences, pardons, <hi>Peter</hi>-pence, jubilees, and ſuch like Popiſh trumpery, in ſo much that <hi>England</hi> was by the Popes ſtyled an inex<g ref="char:EOLhyphen"/>hauſtible Mine.</p>
+            <p n="43">43. <hi>Q.</hi> Is there any ſuch place as Purga<g ref="char:EOLhyphen"/>tory, or doth the Scripture acknowledge only two places for men after this life, <hi>viz.</hi> Heaven and Hell.</p>
+            <p>A. <hi>In Hell he lift up his eyes being in tor<g ref="char:EOLhyphen"/>ments and ſeeth</hi> Abraham <hi>afarr off, and</hi> La<g ref="char:EOLhyphen"/>zarus <hi>in his boſome,</hi> Luke 16.23. <hi>They ſhall ſit down with</hi> Abraham, <hi>&amp;c. In the Kingdom of Heaven; but the other ſhall be caſt out into <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tter darkneſs, where ſhall be weeping and <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>naſhing of Teeth,</hi> Matth. 8.12. <hi>He that
+<pb n="52" facs="tcp:152693:29"/>believeth ſhall be ſaved, he that believeth not ſhall be damned,</hi> Mark. 16.16. 2 Cor. 5.1. Rev. 14.13. Rev. 22.13. Eſa. 57.1. 2 Tim. 4.8.</p>
+            <p>Note, It is blaſphemy to ſay, that men are purged by ſuffering of pains in purga<g ref="char:EOLhyphen"/>tory, [whereby they ſatisfie for leſſer ſins, and for the temporal puniſhment of their greater ſins, for the blood of Chriſt is the only purgatory for our ſins, <hi>Heb.</hi> 1.3. <hi>Heb.</hi> 9.14.</p>
+            <p>Note, The Papiſts divide Hell into four Regions,
+<list>
+                  <item>1. The Hell of the damned, the place of eternal torment, this we grant; but the other are not only unwritten in Scripture, but contrary to it.</item>
+                  <item>2. Purgatory next adjoyning to Hell, and the torments of purgatory, they ſay are as extreme as Hell torments, but not eternal; here they ſay the Souls of the faithful are tormented, it may be a 100 or a 1000 years or longer, ex<g ref="char:EOLhyphen"/>cept they be delivered by the Prayers, Maſſes, Alms of the living, or the Popes pardons.</item>
+                  <item>3. The place or receptacle of In<g ref="char:EOLhyphen"/>fants dying without Baptiſme who (they ſay) ſuffer the loſs of Heaven, but no pain or torment.</item>
+                  <item>4. The place or receptacle of the Saints who dyed before Chriſt, where they did remain in darkneſs, but without pain until they were delivered by Chriſts deſcending into Hell.</item>
+               </list>
+            </p>
+            <pb n="53" facs="tcp:152693:29"/>
+            <p>Note, The things which are ſeen are temporal, the things which are not ſeen are eternal, 2 <hi>Cor.</hi> 4.18. Hence it follows that there is no inviſible place after this life which is not eternal, therefore no Purga<g ref="char:EOLhyphen"/>tory, or <hi>Limbus Patrum.</hi>
+            </p>
+            <p>Note, The Apoſtle ſaith, the whole Church, all the Family, whereof Chriſt is Head, is either in Heaven, or upon Earth, <hi>Eph.</hi> 1.10. <hi>Eph.</hi> 3.15. Therefore there is no Purgatory or <hi>Limbus.</hi>
+            </p>
+            <p>Note, If any did need ſatisfactory pur<g ref="char:EOLhyphen"/>gation after death, ſure that Thief who was converted upon the Croſs, ought to have ſuffered the pains of purgatory many hundred years; yet he went not into pur<g ref="char:EOLhyphen"/>gatory but Paradiſe, <hi>Luke</hi> 23.43.</p>
+            <p>Note, If it be neceſſary (as the Papiſts hold) that the Saints muſt ſatisfie God for the guilt of temporal puniſhment, and for leſſer ſins (which they call venial) then the Saints that are alive upon the Earth at Chriſts ſecond coming, muſt firſt go into purgatory before they can meet the Lord in the Air, which is contrary to the Scrip<g ref="char:EOLhyphen"/>ture, 1 <hi>Theſ.</hi> 4.17.</p>
+            <p>Note, The Fable of purgatory came in<g ref="char:EOLhyphen"/>to the Romiſh Church out of the Heathen Writers, Philoſophers, and Poets, <hi>Plato, Virgil, Ovid,</hi> &amp;c.</p>
+            <p>Note, The more men are afraid of the
+<pb n="54" facs="tcp:152693:30"/>fire of purgatory, the more money they will give for Indulgences, Pardons, Maſſes, Prayers to be made for them after death. The Popiſh Church knowing how gainful this Doctrine is, contend fiercely for it, &amp; for want of better proofs flye to Enthuſi<g ref="char:EOLhyphen"/>aſtick lying viſions, revelations, forged miracles; in their Legends ſtrange ſtories are told of perſons that have come out of purgatory, and have related the manner and extremity of ſufferings there; which things have been believed by the ignorant multitude.</p>
+            <p n="44">44. <hi>Q.</hi> Are there more than two Sacra<g ref="char:EOLhyphen"/>ments, namely, Baptiſme, and the Lords Supper?</p>
+            <p>A. <hi>Go t<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ach all Nations and Baptiſe them,</hi> Matth. 28.19. <hi>Jeſus took bread, and when he had given thanks he brake it, ſaying, Take, eat, this is my body,</hi> &amp;c. 1 Cor. 11.23. <hi>By one Spirit are we all Baptized into one Body, and have been all made to drink into one Spi<g ref="char:EOLhyphen"/>rit,</hi> 1 Cor. 12.13. <hi>ſee</hi> 1 Cor. 10.2, 3.</p>
+            <p>Note, The Papiſts reckon ſeven Sacra<g ref="char:EOLhyphen"/>ments, <hi>viz.</hi> Baptiſm, the Lords Supper, Confirmation, Penance, Matrimony, Or<g ref="char:EOLhyphen"/>ders, extreme unction: But there can't be ſeven Sacraments properly ſo called: For
+<list>
+                  <item>1. They are never mentioned in any Scrip<g ref="char:EOLhyphen"/>ture, Creed, or ancient Father; they were firſt deviſed by <hi>Peter Lumbard,</hi> 1439.
+<pb n="55" facs="tcp:152693:30"/>Afterwards confirmed in the Council of <hi>
+                        <gap reason="illegible: missing" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ent.</hi>
+                  </item>
+                  <item>2. The Conditions required to a <gap reason="illegible: missing" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>crament, agree only unto Baptiſm, and <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible: missing" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Lords Supper.</item>
+               </list>
+            </p>
+            <p>Note, Five Conditions are required to a <gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap>crament of the Goſpel,
+<list>
+                  <item>1. That it be in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: missing" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>uted by Chriſt himſelf immediately,</item>
+                  <item>2. That it have ſome ſenſible ſign,</item>
+                  <item>3. That it <gap reason="illegible: missing" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ve the promiſe of God, concerning ſa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng grace, and eternal life added to the <gap reason="illegible: missing" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gn,</item>
+                  <item>4. That it repreſent, ſeal, and apply to <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elievers Chriſt, and the benefits of the <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ew Covenant,</item>
+                  <item>5. That it be given to the <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hole Church to continue to the end of <gap reason="illegible: missing" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e world.</item>
+               </list>
+            </p>
+            <p>Note, Though the Papiſts and Quakers <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gree in many things, yet in the Doctrine <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Sacraments they differ very much; <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the Papiſts will have too many Sacra<g ref="char:EOLhyphen"/>ments, and the Quakers none at all; Papiſts ſet up falſe Sacraments, and Quakers re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect the true Sacraments.</p>
+            <p n="45">45. <hi>Q.</hi> Doth the efficacy and being of the Sacrament depend upon the intention of the Prieſt or Miniſter.</p>
+            <p>A. <hi>Neither is he that planteth any thing; neither he that watereth, but God that giveth the encreaſe,</hi> 1 Cor. 3.7. <hi>Notwithſtanding, every way, whether in pretence, or in truth, Chriſt is preached, I therein do rejoyce,</hi> Phil. 1.18.</p>
+            <pb n="56" facs="tcp:152693:31"/>
+            <p>Note, The Ordinances of God dep<gap reason="illegible: missing" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> not upon the holineſs or intention of <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>perſon that doth adminiſter them; but on the work of the ſpirit, and the word<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> inſtitution, containing a precept for the <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of them, and a promiſe of benefit <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>them.</p>
+            <p>Note, The Papiſts holding the intenti<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Prieſt to be neceſſary to the maki<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of a Sacrament, hang their faith and ſal<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion upon great uncertainties; they h<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they cannot be ſaved without Baptiſm, th<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Baptiſm is no Baptiſm, if the Prieſt did n<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap> intend to make it a Sacrament. How ca<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Papiſt be ſure of the Prieſts intention thus they hang their ſalvation upon th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meer will of an impious Prieſt. They can be ſure that they have any Sacraments o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prieſts among them: I muſt be certain tha<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he is a Prieſt that Conſecrates, and that h<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath an intention to make a Sacrament but how can I be ſure of this? how can be ſure of his Prieſthood? For I muſt firſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be aſſured of the Prieſthood of him tha<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Baptized him, and of the intention of the Biſhop that ordained him, and of the in<g ref="char:EOLhyphen"/>tention of the Archbiſhop that ordained that Biſhop, which is impoſſible for me; ſo that according to their own principles they can have no certainty that they are Chriſtians.</p>
+            <pb n="57" facs="tcp:152693:31"/>
+            <p n="46">46. <hi>Q.</hi> Do the Sacraments confer grace by the meer work done, the meer Sacra<g ref="char:EOLhyphen"/>mental action; So that there needs no pre<g ref="char:EOLhyphen"/>paration, qualification, faith, or devotion in thoſe who receive?</p>
+            <p>A. <hi>Baptiſm doth ſave, not the putting away of the filth of the fleſh, but he anſwer of a good Conſcience,</hi> 1 Pet. 3.21. <hi>Let a man examine himſelf, and ſo let him eat of this Bread, and drink of this cup,</hi> 1 Cor. 11.28.</p>
+            <p>Note, The Papiſts teach that the Sacra<g ref="char:EOLhyphen"/>mental ſigns, as water in Baptiſm, <hi>&amp;c.</hi> have in them inherent power and vertue to work and produce grace; as phyſick to cure, fire to burn; and that the Sacraments do always confer grace in the very moment of time when received. But this is moſt abſurd and falſe. For
+<list>
+                  <item>1. It is injurious to God, for he only who made the heart, can ſanctifie it; for the cleanſing of the Soul by grace infu<g ref="char:EOLhyphen"/>ſed, is of the ſame nature with Creation.</item>
+                  <item>2. It is plainly contrary to the Doctrine of the Apoſtles in the forementioned places.</item>
+                  <item>3. The Sacramental ſigns touch not the ſoul. For inſtance, water in Baptiſm touch<g ref="char:EOLhyphen"/>eth not the Soul, therefore cannot work grace in it,</item>
+                  <item>4. The word preached doth not profit without faith, therefore much leſs Sacraments.</item>
+                  <item>5. Did the Sacrament conferr grace upon <hi>Judas,</hi> did <hi>Simon Magus</hi> receive grace by Baptiſm, doth not St. <hi>Peter</hi> ſay the
+<pb n="58" facs="tcp:152693:32"/>contrary, <hi>Act.</hi> 8.13. with 23.</item>
+                  <item>6. The Scripture aſcribes grace to God only, as the immediate worker of it in us.</item>
+                  <item>7. If there be ſeven Sacraments, and they confer grace by the meer work done, it is ſtrange that the Papiſts ſhould have no more grace, ha<g ref="char:EOLhyphen"/>ving ſo many and ſo efficacious Sacraments.</item>
+               </list>
+            </p>
+            <p>Note, We grant the Sacraments are not meer ſigns, but efficacious to work grace, if they be rightly uſed; we ſay,
+<list>
+                  <item>1. They are efficacious, not by the meer work done, but by the power and operation of the ſpirit, 1 <hi>Cor.</hi> 12.13. <hi>Matth.</hi> 3.11. As <hi>Eliſhas</hi> bough made Iron to ſwim, <hi>Moſes</hi> Rod divided the Red Sea, not by inherent force in it ſelf, but by the power of God.</item>
+                  <item>2. The efficacy of the Sacraments is not tyed to that moment of time wherein they are adminiſtred, <hi>John</hi> 3.8.</item>
+                  <item>3. They be<g ref="char:EOLhyphen"/>come effectual means of ſalvation, to ſuch only as by faith receive them, <hi>Mark</hi> 16.16.</item>
+               </list>
+            </p>
+            <p n="47">47. <hi>Q.</hi> Is water the only viſible ſubſtan<g ref="char:EOLhyphen"/>tial ſign to be uſed in <hi>Baptiſm?</hi>
+            </p>
+            <p>A. <hi>I Baptize you with water,</hi> Math. 3.11. <hi>Can any forbid water, that theſe ſhould not be Baptized,</hi> Act. 10.47.</p>
+            <p>Note, The Papiſts uſe Salt, Oyl, and Spittle, with many ſuperſtitious. Ceremo<g ref="char:EOLhyphen"/>nies, additions to the inſtitution of Chriſt, in Baptiſm. King <hi>James</hi> (of famous me<g ref="char:EOLhyphen"/>mory) in his Apology, hath theſe words,
+<pb n="59" facs="tcp:152693:32"/>The Queen my Mother at my Baptiſm, although I was Baptized by a Popiſh Arch<g ref="char:EOLhyphen"/>biſhop, ſent him word to forbear to uſe the ſpettle in my Baptiſm; which was o<g ref="char:EOLhyphen"/>beyed, being indeed a filthy and apiſh trick: Her own very words were [that ſhe would not have a Pockie Prieſt to ſpet in her Childs mouth.]</p>
+            <p n="48">48. <hi>Q.</hi> Are all that die without Baptiſm, undoubtedly damned, and ſhut out of Hea<g ref="char:EOLhyphen"/>ven?</p>
+            <p>A. <hi>Baptiſm doth now ſave us, not the put<g ref="char:EOLhyphen"/>ting away of the filth of the fleſh, but the anſwer of a good Conſcience,</hi> 1 Pet. 3.21. Mark 16.16.</p>
+            <p>Note, The Papiſts teach that all unbap<g ref="char:EOLhyphen"/>tized are damned: this is falſe, for then
+<list>
+                  <item>1. The penitent Thief could not be ſaved con<g ref="char:EOLhyphen"/>rary to, <hi>Luk.</hi> 23.43.</item>
+                  <item>2. Innumerable In<g ref="char:EOLhyphen"/>fants muſt be damned for the neglect of their Parents (a cruel uncharitable cen<g ref="char:EOLhyphen"/>ſure) contrary to <hi>Gen.</hi> 17.7.1 <hi>Cor.</hi> 7.14. <hi>Rom.</hi> 4.11. <hi>Math.</hi> 19.14.</item>
+               </list>
+            </p>
+            <p>Note, Not the meer want, but the con<g ref="char:EOLhyphen"/>tempt of Baptiſm is damnable, <hi>Luke</hi> 7.31. The holy Ghoſt may be had without Bap<g ref="char:EOLhyphen"/>tiſm (ſo it be not contemned) therefore Salvation alſo, <hi>Act.</hi> 10.47.</p>
+            <p>Note, <hi>John</hi> 3.5. is not to be underſtood of material water, but rather of the ſan<g ref="char:EOLhyphen"/>ctifying grace of Chriſt; whereas water in
+<pb n="60" facs="tcp:152693:33"/>Baptiſm is a ſign. The words of our Savi<g ref="char:EOLhyphen"/>our are not properly of the external Sacra<g ref="char:EOLhyphen"/>ment, more than <hi>John</hi> 6. Of the other Sa<g ref="char:EOLhyphen"/>crament [except ye eat the fleſh of the Son of Man, and drink his blood, ye have no life in you] whereas all Infants are exclu<g ref="char:EOLhyphen"/>ded from that Sacrament, and conſequently ſhould be excluded from eternal life, if the words were meant of the outward Sacra<g ref="char:EOLhyphen"/>ment. It is a true rule in Divinity given by the ancient Fathers, that the viſible Sa<g ref="char:EOLhyphen"/>crament, is then ſupplyed inviſibly, when not the contempt of Religion, but ſome inevitable neceſſity doth exclude the myſte<g ref="char:EOLhyphen"/>ry of Baptiſm.</p>
+            <p n="49">49. <hi>Q.</hi> Is the Popiſh Sacrifice of the Maſſe a moſt abominable Idol? is Chriſt offered up, as a Sacrifice in the Lords Supper by the Prieſt? Doth the Scripture ſay, that Chriſt is often offered up as a Sacrifice for us? or that he was only once offered up as a Sacrifice for us, when he dyed upon the Croſs?</p>
+            <p>A. <hi>Chriſt was once offered to bear the ſins of many,</hi> Heb. 9.28. <hi>We are ſanctified through the offering of the body of</hi> Jeſus <hi>once for all,</hi> Heb. 10.10. <hi>Chriſt after he had of<g ref="char:EOLhyphen"/>fered one Sacrifice for fins, for ever ſate down at the right hand of God,</hi> Heb. 10.12. <hi>By one offering, Chriſt hath perfected for ever, them that are ſanctified,</hi> Heb. 10.14 <hi>Chriſt
+<pb n="61" facs="tcp:152693:33"/>hath once ſuffered for ſins, that he might bring us to God,</hi> 1 Pet. 3.18.</p>
+            <p>Note, The Papiſts ſay, that in the Lords Supper the Miniſter is a Prieſt properly, and doth offer up Chriſts body and blood as a Sacrifice to God, for obtaining the par<g ref="char:EOLhyphen"/>don of ſins, the Remiſſion of pain and guilt for the living, and the dead. This Do<g ref="char:EOLhyphen"/>ctrine is moſt filthy and injurious to that All ſufficient Sacrifice of Chriſt offered once for ever upon the Croſs: here again the Popiſh-Doctrine razeth the foundation of Religion to the very bottom.</p>
+            <p>Note, A real and outward Sacrifice, is againſt the nature of a Sacrament, &amp; eſpe<g ref="char:EOLhyphen"/>cially the Supper of the Lord; for one end thereof, is to keep in memory the Sa<g ref="char:EOLhyphen"/>crifice of Chriſt. Again, in a Sacrament, God gives Chriſt to us, whereas in a real Sacrifice God receives from man, he gives ſomething to God, in the Popiſh Sacrifice of the Maſſe, the Prieſt pretends to give Chriſt to God.</p>
+            <p>Note, The Maſſe may well be ſo called, for it's a Maſs and heap of blaſphemies and abominations: it is like a Beggars Cloak patch't up with many pieces; one Pope puts in one patch, another another; it was not fully patch't up, as now it is, till twelve hundred years after Chriſt.</p>
+            <p>Note, The Maſſe being Idolatrous, it is
+<pb n="62" facs="tcp:152693:34"/>not lawful to be preſent at it, as appears by, 1 <hi>Cor.</hi> 10.14. Flee from Idolatry; theſe Scriptures forbid going to Maſſe, 2 <hi>Cor.</hi> 6.16, 17.1 <hi>Cor.</hi> 10.21. <hi>Pſal.</hi> 26. 4.1 <hi>Joh.</hi> 5.21.1 <hi>King</hi> 19.18.1 <hi>Cor.</hi> 6. 20. <hi>Rev.</hi> 21.8. <hi>Rev.</hi> 13.7. It is not law<g ref="char:EOLhyphen"/>ful, for a man outwardly, to accommodate himſelf to Popiſh Idolatry; though he doth keep his heart to God, and in his mind addreſs all Religious worſhip to God a<g ref="char:EOLhyphen"/>lone, <hi>Matt.</hi> 10.33. <hi>Rom.</hi> 10.10. The ex<g ref="char:EOLhyphen"/>ample of <hi>Naaman,</hi> 2 <hi>King.</hi> 5.18. will not excuſe our Maſſe Goſpellers; for
+<list>
+                  <item>1. <hi>Naaman</hi> made open profeſſion, by word and deed, of Adoring the true God only, 2 <hi>King</hi> 5.17.</item>
+                  <item>2. His bowing, was only a civil honour to the King his Maſter, who leaned upon him (as tis the cuſtom of Princes in ſtate to do): when the King bowed, <hi>Naaman</hi> muſt ſtoop alſo, to hold up and ſupport the King.</item>
+               </list>
+            </p>
+            <p n="50">50. <hi>Q.</hi> Is Chriſt Corporally in the Lords Supper? Is there a change of the ſub<g ref="char:EOLhyphen"/>ſtance of the Bread, Wine, into the ſub<g ref="char:EOLhyphen"/>ſtance of Chriſts body and blood? or ſhall Chriſts body abide in Heaven, till the end of the World?</p>
+            <p>A. <hi>He ſhall ſend Jeſus Chriſt; whom the Heavens muſt receive, until the times of re<g ref="char:EOLhyphen"/>ſtitution of all things,</hi> Act. 3.21. <hi>The poor ye have alwayes; me ye have not alwayes,</hi>
+               <pb n="63" facs="tcp:152693:34"/>Mark 14.7. <hi>Chriſt ſits at the right hand of God,</hi> Col. 3.1. <hi>This do in remembrance of me,</hi> 1 Cor. 11.26. <hi>They follow the Lamb whetherſoever he goes,</hi> Rev. 14.4. <hi>A Spirit hath not fleſh and bones, as ye ſee me have,</hi> Luk. 24.39. <hi>Jeſus took bread, and break it,</hi> 1 Cor. 11.24. <hi>As oft as ye eat this bread, and drink this Cup, ye do ſhew the Lords death till he come,</hi> 1 Cor. 11.26.</p>
+            <p>Note, The Popiſh Doctrine of Tran<g ref="char:EOLhyphen"/>ſubſtantiation, <hi>viz.</hi> The change of the Bread and Wine into the natural body and blood of Chriſt, is repugnant to plain Te<g ref="char:EOLhyphen"/>ſtimonies of Scripture; overthroweth the nature of a Sacrament, hath given occaſion to moſt groſſe Idolatry, and manifold Su<g ref="char:EOLhyphen"/>perſtitions, doth contain infinite abſurdities and contradictions, as
+<list>
+                  <item>1. Then Chriſt muſt hold himſelf in his own hands; yea de<g ref="char:EOLhyphen"/>vour and eat up himſelf, and yet ſit whole and entire at the Table with his Diſciples;</item>
+                  <item>2. His body muſt be in a Thouſand places at the ſame time.</item>
+                  <item>3. His whole body muſt be in every Communicants mouth at once.</item>
+                  <item>4. His whole body muſt be leſs in quantity, than the leaſt limb of his body.</item>
+                  <item>5. His body muſt at the ſame time be bro<g ref="char:EOLhyphen"/>ken, and yet not broken.</item>
+                  <item>6. His body muſt at the ſame time, both aſcend and deſcend.</item>
+                  <item>7. His body muſt be ſubject to corruption and putrefaction, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="64" facs="tcp:152693:35"/>
+            <p>Note, <hi>Matth.</hi> 26.26. [This is my bo<g ref="char:EOLhyphen"/>dy] is to be underſtood, this doth ſignifie and repreſent my body. Chriſt is called a Rock, 1 <hi>Cor.</hi> 10.4. A door, <hi>Joh.</hi> 10.9. A Vine, <hi>John</hi> 15.1. Believers are called one bread, 1 <hi>Cor.</hi> 10.4. Can any one be ſo ſenſeleſs, as to think that Chriſt was Tranſubſtantiated, or turned into a Rock; a Door, a Vine, or the whole Church in<g ref="char:EOLhyphen"/>to Bread.</p>
+            <p>Note, The Papiſts have infinite diſputes, and cannot agree among themſelves, whe<g ref="char:EOLhyphen"/>ther Chriſts body be made in the Bread, or brought into it? whether his body un<g ref="char:EOLhyphen"/>der the form of bread, be living, have all the parts of a man, have weight? Why it is not perceived? whether the Prieſt make his Maker by bleſſing the Elements, or by ſaying [This is my body]? <hi>&amp;c.</hi> The an<g ref="char:EOLhyphen"/>cient Fathers ſay nothing of Tranſubſtan<g ref="char:EOLhyphen"/>tiation, the firſt determination of it was 1200 years after Chriſt, for the proof of it, they alledge this miracle, that on a time St. <hi>Francis</hi> found a Spider in the Com<g ref="char:EOLhyphen"/>munion Cup, which he would not caſt out, but drank up with the Wine; afterwards rubbing his thigh where it itched, the Spi<g ref="char:EOLhyphen"/>der came whole out of his thigh, without harm to either.</p>
+            <p>Note, <hi>John</hi> 6. Is not to be underſtood
+<pb n="65" facs="tcp:152693:35"/>of any corporal eating of Chriſt in the Sacrament (as Papiſts falſly pretend) but of ſpiritual eating and drinking by faith, whether in the Sacrament, or without, as is plain, <hi>John</hi> 6.35. <hi>John</hi> 6.47.</p>
+            <p n="51">51. <hi>Q.</hi> Are not the Papiſts guilty of hor<g ref="char:EOLhyphen"/>rible Idolatry, in giving Divine worſhip to the Sacrament? In giving the ſame Re<g ref="char:EOLhyphen"/>ligious worſhip to the bread, which the Prieſt holds in his hands, which is due to the true God? In adoring a Breaden God?</p>
+            <p>A. <hi>Thou ſhalt have no other Gods before me,</hi> Exod. 20.3. <hi>Thou ſhalt worſhip the Lord thy God, and him only,</hi> Matth. 4.10. <hi>My glory will I not give to another,</hi> Eſa. 42.8.</p>
+            <p>Note, The Papiſt adore and give Divine worſhip to the very Sacrament, and re<g ref="char:EOLhyphen"/>quire it of all, who have Communion with them; there they err again in the very foundation, for that we ſhould give Reli<g ref="char:EOLhyphen"/>gious worſhip to God alone, is the firſt and principle command of Gods Law, and it is the great and chief foundation of the Goſpel, as our Saviour teaches, <hi>John</hi> 17.3. It was the main crime of the <hi>Jews,</hi> and alſo of the Heathens, to render to the Creature the glory and adoration due to God. The N. Teſtament threatens
+<pb n="66" facs="tcp:152693:36"/>eternal Damnation to Idolaters, 1 <hi>Cor.</hi> 6.10. <hi>Rev.</hi> 21.8.</p>
+            <p>Note, It will not at all excuſe the Pa<g ref="char:EOLhyphen"/>piſts, to ſay that they worſhip not the bread, but Chriſt; for they ſuppoſe the bread to be Chriſt; this argument cannot excuſe the Papiſts from Idolatry, for if it doth, it will excuſe the greateſt Heathen Idolater, for thoſe Heathens that worſhip<g ref="char:EOLhyphen"/>ped the Sun, did ſuppoſe the Sun to be God; they that worſhipped Jupiter, did ſuppoſe him to be God<g ref="char:punc">▪</g> If this will excuſe from Idolatry, ye ſhall not find any thing that can be juſtly called Idolatry, <hi>Gal.</hi> 4.8.</p>
+            <p n="52">52. <hi>Q.</hi> Should people receive but half the Sacrament, the bread, but not the cup of the Lord?</p>
+            <p>A. <hi>He took the Cup, and gave it to them, ſaying, drink ye all of it,</hi> Matth. 26.27. <hi>He took the Cup and gave it to them, and they all drank of it,</hi> Mark 14.23. <hi>Let a man exa<g ref="char:EOLhyphen"/>mine himſelf, and ſo let him eat of that bread, and drink of that Cup,</hi> 1 <hi>Cor.</hi> 11.28. <hi>ſee</hi> 1 <hi>Cor.</hi> 10.16.</p>
+            <p>Note, The Papiſts are guilty of plain Sacriledge, in robbing Gods people of the myſtical Cup, for whom Chriſt did ſhed his moſt precious blood.</p>
+            <pb n="67" facs="tcp:152693:36"/>
+            <p n="53">53. <hi>Q.</hi> Rehearſe thoſe Scriptures, that mention the uſe of Oyle, in the miracu<g ref="char:EOLhyphen"/>lous curing of Diſeaſes?</p>
+            <p>A. <hi>They anointed with Oyle, many that were ſick, and healed them,</hi> Mark 16.13. <hi>Is any ſick, let the Elders of the Church pray over him, and anoint him with Oyle, in the name of the Lord,</hi> Jam. 5.14.</p>
+            <p>Note, The Church of <hi>Rome,</hi> without ſhame fain a Sacrament of a Ceremony uſed only for health of body; whereas ſpiritual grace, not bodily health, is the proper effect of a Sacrament. Why do they not alſo make Sacraments of Clay and Spittle, Handkerchiefs and Aprons; for theſe as well as Oyl were ſometimes uſed as ſigns in mi<g ref="char:EOLhyphen"/>raculous healing of Diſeaſes? the gift of healing being ceaſed, it is abſurd to keep up the ſign, much more abſurd to make it a Sacrament, as the Papiſts do, calling it ex<g ref="char:EOLhyphen"/>tream unction; to propoſe their hypocriti<g ref="char:EOLhyphen"/>cal pageantry, is enough to confute it; the matter muſt be oile Olive conſecrated by a Biſhop. He that Adminiſters it muſt be a Prieſt, the perſon receiving it, muſt be one thought to be at the point of death. The members anointed are the eyes, cars noſe, mouth, hands, reins. The form, by this holy oile, and his tender mercy God forgive thee, the effects and vertue, expulſion of the
+<pb n="68" facs="tcp:152693:37"/>reliques of ſin, ſtrengthning againſt Satan, pardon of ſin, healing the body, if it be for the good of the ſick mans ſoul. Oh abo<g ref="char:EOLhyphen"/>minable blind Superſtition!</p>
+            <p>
+               <hi>Q.</hi> 54. Have Monkiſh vowes any ground and warrant in Gods word, or be they con<g ref="char:EOLhyphen"/>trary to it?</p>
+            <p>A. <hi>Why are ye Subject to Ordinanc (touch not, taſt not, handle not) after the Commandements and Doctrines of men, which things indeed have a ſhew of wiſdome, in will-worſhip, and humility, in neglecting of the body,</hi> Col, 2.23. <hi>Better it is, that thou ſhouldeſt not vow, than that thou ſhouldeſt vow, and not pay,</hi> Eccl. 5.5. <hi>Stana faſt in the liberty, wherewith Chriſt hath made you free,</hi> Gal. 5.1.</p>
+            <p>Note, The Papiſts place a great part of their Religion in Monkiſh vowes, which are principally three.
+<list>
+                  <item>1. The vow of ſingle life and Chaſtity.</item>
+                  <item>2. The vow of Poverty and Begging.</item>
+                  <item>3. The vow of regular Obe<g ref="char:EOLhyphen"/>dience, to be governed by their Superiour, or Abbot in all things.</item>
+               </list> All theſe vowes are ſinful, for
+<list>
+                  <item>1. They are againſt Chriſtian li<g ref="char:EOLhyphen"/>berty.</item>
+                  <item>2. Some of them are out of the power and ability of him that voweth, as the vow of perpetual chaſtity in ſingle life.</item>
+                  <item>3. They aboliſh the Order which God hath ſet, <hi>viz.</hi> That every one ſhould have ſome
+<pb n="69" facs="tcp:152693:37"/>particular calling, whereby he may be profi<g ref="char:EOLhyphen"/>table to humane Society.</item>
+                  <item>4. Theſe vows are Idolatrous and Superſtitious, for they are made and obſerved with an opinion of Gods worſhip, of merit, and of the ſtate of perfection.</item>
+                  <item>5. Theſe vowes are made in meer fraud and hypocriſie. Monks and Fryers pretend chaſtity, and practice un<g ref="char:EOLhyphen"/>cleanneſs; pretend poverty, and yet abound in wealth; here in <hi>England</hi> they hadabove a third part of the Lands in this Kingdome, and yet theſe are the men that make to God a ſolemn vow of poverty.</item>
+                  <item>6. Theſe vowes are expreſly againſt Gods word,
+<list>
+                        <item>1. The vow of ſingle life, is contrary to 1 <hi>Cor</hi> 7.9. <hi>Math.</hi> 19.11. <hi>Heb.</hi> 13.4.</item>
+                        <item>2. The vow of regular Obedience, is con<g ref="char:EOLhyphen"/>trary to, 1 <hi>Cor.</hi> 7.23.</item>
+                        <item>3. The vow of po<g ref="char:EOLhyphen"/>verty and begging, is contrary to, <hi>Deut.</hi> 15.</item>
+                        <item>4. 2 <hi>Theſ.</hi> 3.10. 1 <hi>Tim.</hi> 5.16. <hi>Act.</hi> 20.35.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Note, The firſt occaſion of Monks was perſecution, Chriſtians were forced to hide themſelves in Woods and Caves; theſe may be called Golden Monks: that which brought the Monaſtick ſtate into eſteem, was the ſeverity and ſtrictneſs of the be<g ref="char:EOLhyphen"/>ginners of it; but this was of ſhort conti<g ref="char:EOLhyphen"/>nuance, ſome of the ancient Fathers magni<g ref="char:EOLhyphen"/>fie it highly, becauſe they lived not to ſee
+<pb n="70" facs="tcp:152693:38"/>the bad effects of it, when it came into a Settlement.</p>
+            <p>Note, The difference between Monks and Fryers; Monks have nothing in propri<g ref="char:EOLhyphen"/>ety, but all in common; theſe having loſt their credit, another order came up, who would be called Fryers; theſe pretend to ſtrict poverty, to have nothing in common, nor propriety, but are Mendicants, begging their ſubſiſtance. But after a little time theſe Fryers obtained leave from the Popes, to have Houſes, Lands, and Money, and heaped up much wealth; yet notwith<g ref="char:EOLhyphen"/>ſtanding they pretend to keep their ſolemn vow of poverty; becauſe they have only the uſe, poſſeſſion, and enjoyment of their Houſes, Goods, and Eſtates; but the pro<g ref="char:EOLhyphen"/>perty and Dominion of them, is not in themſelves, but in the Pope: all this pre<g ref="char:EOLhyphen"/>tence of poverty is a meer Juggle, and fit only to deceive the ſimple; for poverty cannot conſiſt with a plentiful uſe of wealth, ſuppoſing it could be without property or Dominion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>PAge</hi> 7 <hi>l.</hi> 6. <hi>read</hi> Power <hi>p.</hi> 14. <hi>l.</hi> 16. <hi>r.</hi> ſort. <hi>p.</hi> 15. <hi>l.</hi> 23. <hi>r.</hi> venial. <hi>l.</hi> 27. <hi>r.</hi> God offended by them. <hi>p.</hi> 19 <hi>l.</hi> 23 <hi>r.</hi> he had made. <hi>p.</hi> 22. <hi>l.</hi> 15. <hi>r.</hi> ſitteth. <hi>p.</hi> 26. <hi>l.</hi> 4. <hi>r</hi> civil. <hi>p.</hi> 31 <hi>l.</hi> 3 after we <hi>add</hi> have. <hi>p.</hi> 38. <hi>l.</hi> 16 <hi>r.</hi> Chimerical <hi>p.</hi> 62. <hi>add</hi> and. <hi>p.</hi> 63. <hi>l</hi> 6. <hi>r.</hi> brake.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:152693:38"/>
+            <head>A Catalogue of Books to be ſold by Tho. Parkhurſt, at the Bible and three Crowns in <hi>Cheap-ſide</hi> near <hi>Mercers</hi>-Chappel.</head>
+            <p>
+               <hi>Quarto's.</hi>
+            </p>
+            <p>THe Morning-Exerciſe againſt Popery, or the principal Errours of the Church of <hi>Rome</hi> Detected and Confuted in a Morning-Lecture, preached lately in <hi>Southwark.</hi> By ſeveral Miniſters of the Goſpel in or near <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Large Octavo.</hi>
+            </p>
+            <p>Captives bound in Chains, made free by Chriſt their Surety; or the Miſery of grace<g ref="char:EOLhyphen"/>leſs Sinners, and their Recovery by Chriſt their Saviour. By <hi>Tho. Doolittle.</hi>
+            </p>
+            <p>
+               <hi>Speculum Sherlockianum,</hi> or a Looking-Glaſs, in which the Admirers of Mr. <hi>Sherlock</hi> may behold the Man, as to his Accuracy, Judgment, Orthodoxy.</p>
+            <p>The Childs Delight, together with an Engliſh Grammar.</p>
+            <p>An Expoſition of the Aſſembly's-Cate<g ref="char:EOLhyphen"/>chiſm. By <hi>Tho. Lye.</hi>
+            </p>
+            <pb facs="tcp:152693:39" rendition="simple:additions"/>
+            <p>
+               <hi>Small Octavo.</hi>
+            </p>
+            <p>A Religious Family; or a Treatiſe, in which is,
+<list>
+                  <item>1. The Beauty and Excellency of a pious and well-ordered Family deſcribed.</item>
+                  <item>2. The ſingle Mans Family-Book faithfully preſcribed. By <hi>Phil. Lamb.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Index Biblicus Multijugus;</hi> or a Table to the Holy Scripture, wherein each of its Books, Chapters and divers Matters are diſtinguiſhed and Epitomized.</p>
+            <p>The almoſt-Chriſtian Diſcovered; or the Falſe-Profeſſor tryed and caſt. By <hi>Matth. Mead.</hi>
+            </p>
+            <p>The Godly Mans Ark; or the City of Refuge in the Day of his Diſtreſs, with Mrs. <hi>Moores</hi> Evidences for Heaven. By <hi>Edm. Calamy.</hi>
+            </p>
+            <p>The true Bounds of Chriſtian-Freedom. By <hi>S. Bolton.</hi>
+            </p>
+            <p>The ſinfulneſs of Sin, and the Fulneſs of Chriſt. By <hi>Will. Bridge.</hi>
+            </p>
+            <p>A Diſcourſe againſt Tranſubſtantiation; or an Anſwer to the ordinary Queſtion, whe<g ref="char:EOLhyphen"/>ther a Man may be ſaved in the <hi>Roman</hi>-Catholick Religion. By <hi>J. G.</hi> D. D.</p>
+            <pb facs="tcp:152693:39"/>
+            <pb facs="tcp:152693:40"/>
+            <pb facs="tcp:152693:40"/>
+         </div>
+      </back>
+   </text>
+</TEI>
